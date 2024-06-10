@@ -1,0 +1,5 @@
+site_name: TBI Website Guide
+nav: 
+  - Home: index.md
+theme: readthedocs
+
