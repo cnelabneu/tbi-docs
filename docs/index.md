@@ -7,11 +7,11 @@ This is going to be a long document so it'll be split up into chapters to make j
 
 | Chapters                    | Links                                                                 |
 | --------------------------- | --------------------------------------------------------------------- |
-| 1. Installation Guides      | [[tbi-guide#1. Installation Guides \| Installation Guides]]           |
-| 2. Where to Find Everything | [[tbi-guide#2. Where to Find Everything \| Where to Find Everything]] |
-| 3. Running The Program      | [[tbi-guide#3. Running The Program \| Running the Program]]           |
-| 4. Database Management      | [[tbi-guide#4. Database Management \| Database Management]]           |
-| 5. Misc Info                | [[tbi-guide#5. Misc Info \| Misc Info]]                               |
+| 1. Installation Guides      | [[index#1. Installation Guides \| Installation Guides]]           |
+| 2. Where to Find Everything | [[index#2. Where to Find Everything \| Where to Find Everything]] |
+| 3. Running The Program      | [[index#3. Running The Program \| Running the Program]]           |
+| 4. Database Management      | [[index#4. Database Management \| Database Management]]           |
+| 5. Misc Info                | [[index#5. Misc Info \| Misc Info]]                               |
 
 
 # 1. Installation Guides 
