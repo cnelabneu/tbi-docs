@@ -126,7 +126,7 @@ Ensure there is consistency within the database, collaborate with each other and
 
 One of the biggest issues is sometimes a data entry will be missed. If this happens refer back to [Running the Program](#3-running-the-program) for what code to add and how to run it.
 
-Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the **data** collection. Below is a template on what to insert
+Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the **data** collection. Click on "ADD DATA" then click on "Insert New Document". Below is a template on what to insert
 
 ```json
 {
