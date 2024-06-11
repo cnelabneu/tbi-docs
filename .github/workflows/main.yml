@@ -1,4 +1,4 @@
-name: Build GitHub Pages
+name: Build and Deploy MkDocs to GitHub Pages
 
 on:
   push:
@@ -35,13 +35,17 @@ jobs:
         run: mkdocs build
 
       - name: List files for debugging
-        run: ls -la
+        run: |
+          echo "Listing root directory"
+          ls -la
+          echo "Listing site directory"
+          ls -la site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site
+          publish_dir: ./site
 
   deploy:
     needs: build
@@ -54,7 +58,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Checkout code
+      - name: Checkout gh-pages branch
         uses: actions/checkout@v4
         with:
           ref: gh-pages
