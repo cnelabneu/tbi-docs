@@ -129,10 +129,6 @@ One of the biggest issues is sometimes a data entry will be missed. If this happ
 Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the **data** collection. Below is a template on what to insert
 
 ```json
-
-/** 
-* Paste one or more documents here
-*/
 {
   "user_id": Insert Fitbit ID here (As a String),
   "date": Insert Date here (As a YYYY-MM-DD String),
@@ -260,10 +256,12 @@ After you do this, go into the **plan** collection and find the correct particip
 ```
 
 After you do this, add the final two lines into the index.js file in the roybal codebase and run `bun index.js`:
-```js
+
+```javascript
 await processPlans()
 await processPoints()
- ```
+```
+
 # 5. Misc Info
 
 I can't actually think of anything but thanks for reading good luck out there soldiers o7. I'm always here to consult with so have no fear.

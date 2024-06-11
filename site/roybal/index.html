@@ -231,11 +231,7 @@
 <h2 id="missing-data-entries">Missing Data Entries</h2>
 <p>One of the biggest issues is sometimes a data entry will be missed. If this happens refer back to <a href="#3-running-the-program">Running the Program</a> for what code to add and how to run it.</p>
 <p>Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the <strong>data</strong> collection. Below is a template on what to insert</p>
-<pre><code class="language-json">
-/** 
-* Paste one or more documents here
-*/
-{
+<pre><code class="language-json">{
   &quot;user_id&quot;: Insert Fitbit ID here (As a String),
   &quot;date&quot;: Insert Date here (As a YYYY-MM-DD String),
   &quot;activities&quot;: [
@@ -357,10 +353,10 @@
       &quot;steps&quot;: 18848
     },
 </code></pre>
-<p>After you do this, add the final two lines into the index.js file in the roybal codebase and run <code>bun index.js</code>:
-<code>js
-await processPlans()
-await processPoints()</code></p>
+<p>After you do this, add the final two lines into the index.js file in the roybal codebase and run <code>bun index.js</code>:</p>
+<pre><code class="language-javascript">await processPlans()
+await processPoints()
+</code></pre>
 <h1 id="5-misc-info">5. Misc Info</h1>
 <p>I can't actually think of anything but thanks for reading good luck out there soldiers o7. I'm always here to consult with so have no fear.</p>
               
