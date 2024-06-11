@@ -36,4 +36,8 @@ To build your code into the new website, travel to the root directory of this re
 mkdocs build
 ```
 
+```bash
+mkdocs gh-deploy
+```
+
 Then push your code here, and within a few minutes, the documentation will update!
