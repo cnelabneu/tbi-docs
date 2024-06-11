@@ -1,4 +1,5 @@
 site_name: TBI Lab Documentation
+site_url: ""
 nav:
   - Login: login.md
   - Home: index.md
@@ -10,3 +11,6 @@ theme:
 
 extra_javascript:
   - /js/custom_login.js
+
+plugins: []
+
