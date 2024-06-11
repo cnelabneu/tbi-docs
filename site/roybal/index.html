@@ -228,6 +228,139 @@
 </li>
 </ul>
 <p>Ensure there is consistency within the database, collaborate with each other and refer to me with any complications</p>
+<h2 id="missing-data-entries">Missing Data Entries</h2>
+<p>One of the biggest issues is sometimes a data entry will be missed. If this happens refer back to <a href="#3-running-the-program">Running the Program</a> for what code to add and how to run it.</p>
+<p>Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the <strong>data</strong> collection. Below is a template on what to insert</p>
+<pre><code class="language-json">
+/** 
+* Paste one or more documents here
+*/
+{
+  &quot;user_id&quot;: Insert Fitbit ID here (As a String),
+  &quot;date&quot;: Insert Date here (As a YYYY-MM-DD String),
+  &quot;activities&quot;: [
+    {
+      &quot;activityId&quot;: 90013,
+      &quot;activityParentId&quot;: 90013,
+      &quot;activityParentName&quot;: &quot;Walk&quot;,
+      &quot;calories&quot;: 1829,
+      &quot;description&quot;: &quot;Walking less than 2 mph, strolling very slowly&quot;,
+      &quot;duration&quot;: 14233000,
+      &quot;hasActiveZoneMinutes&quot;: true,
+      &quot;hasStartTime&quot;: true,
+      &quot;isFavorite&quot;: false,
+      &quot;lastModified&quot;: &quot;2024-06-06T00:14:36.000Z&quot;,
+      &quot;logId&quot;: 63921524675,
+      &quot;name&quot;: &quot;Walk&quot;,
+      &quot;startDate&quot;: Insert Date here (As a YYYY-MM-DD String),
+      &quot;startTime&quot;: &quot;15:57&quot;,
+      &quot;steps&quot;: 22984
+    }
+  ],
+  &quot;goals&quot;: {
+    &quot;activeMinutes&quot;: 30,
+    &quot;caloriesOut&quot;: 2602,
+    &quot;distance&quot;: 8.05,
+    &quot;steps&quot;: 10000
+  },
+  &quot;summary&quot;: {
+    &quot;activeScore&quot;: -1,
+    &quot;activityCalories&quot;: 2442,
+    &quot;caloriesBMR&quot;: 1743,
+    &quot;caloriesOut&quot;: 3788,
+    &quot;distances&quot;: [
+      {
+        &quot;activity&quot;: &quot;total&quot;,
+        &quot;distance&quot;: 19.22
+      },
+      {
+        &quot;activity&quot;: &quot;tracker&quot;,
+        &quot;distance&quot;: 19.22
+      },
+      {
+        &quot;activity&quot;: &quot;loggedActivities&quot;,
+        &quot;distance&quot;: 0
+      },
+      {
+        &quot;activity&quot;: &quot;veryActive&quot;,
+        &quot;distance&quot;: 16.76
+      },
+      {
+        &quot;activity&quot;: &quot;moderatelyActive&quot;,
+        &quot;distance&quot;: 0.72
+      },
+      {
+        &quot;activity&quot;: &quot;lightlyActive&quot;,
+        &quot;distance&quot;: 1.71
+      },
+      {
+        &quot;activity&quot;: &quot;sedentaryActive&quot;,
+        &quot;distance&quot;: 0
+      }
+    ],
+    &quot;fairlyActiveMinutes&quot;: 26,
+    &quot;heartRateZones&quot;: [
+      {
+        &quot;caloriesOut&quot;: 1159.39162,
+        &quot;max&quot;: 112,
+        &quot;min&quot;: 30,
+        &quot;minutes&quot;: 539,
+        &quot;name&quot;: &quot;Out of Range&quot;
+      },
+      {
+        &quot;caloriesOut&quot;: 1808.51534,
+        &quot;max&quot;: 140,
+        &quot;min&quot;: 112,
+        &quot;minutes&quot;: 236,
+        &quot;name&quot;: &quot;Fat Burn&quot;
+      },
+      {
+        &quot;caloriesOut&quot;: 0,
+        &quot;max&quot;: 175,
+        &quot;min&quot;: 140,
+        &quot;minutes&quot;: 0,
+        &quot;name&quot;: &quot;Cardio&quot;
+      },
+      {
+        &quot;caloriesOut&quot;: 0,
+        &quot;max&quot;: 220,
+        &quot;min&quot;: 175,
+        &quot;minutes&quot;: 0,
+        &quot;name&quot;: &quot;Peak&quot;
+      }
+    ],
+    &quot;lightlyActiveMinutes&quot;: 123,
+    &quot;marginalCalories&quot;: 1660,
+    &quot;restingHeartRate&quot;: 57,
+    &quot;sedentaryMinutes&quot;: 1060,
+    &quot;steps&quot;: 26447,
+    &quot;veryActiveMinutes&quot;: 231
+  }
+}
+</code></pre>
+<p>After you do this, go into the <strong>plan</strong> collection and find the correct participant based on their participant number. Go to their completedUnplannedActivities field and then delete the date that corresponds to the date of the new data entry that you just added. Go to their completedPlannedActivities and add in the activity into the list. Here is a template for an activity</p>
+<pre><code class="language-json">{
+      &quot;activityId&quot;: 90013,
+      &quot;activityParentId&quot;: 90013,
+      &quot;activityParentName&quot;: &quot;Walk&quot;,
+      &quot;calories&quot;: 1514,
+      &quot;description&quot;: &quot;Walking less than 2 mph, strolling very slowly&quot;,
+      &quot;duration&quot;: 11929000,
+      &quot;hasActiveZoneMinutes&quot;: true,
+      &quot;hasStartTime&quot;: true,
+      &quot;isFavorite&quot;: false,
+      &quot;lastModified&quot;: &quot;2024-06-04T00:04:56.000Z&quot;,
+      &quot;logId&quot;: 63877453590,
+      &quot;name&quot;: &quot;Walk&quot;,
+      &quot;startDate&quot;: Insert Date here (As a YYYY-MM-DD String),
+      &quot;startTime&quot;: &quot;15:47&quot;,
+      &quot;steps&quot;: 18848
+    },
+</code></pre>
+<p>After you do this, add the final two lines into the index.js file in the roybal codebase and run <code>bun index.js</code>:
+<code>js
+await processPlans()
+await processPoints()</code></p>
 <h1 id="5-misc-info">5. Misc Info</h1>
 <p>I can't actually think of anything but thanks for reading good luck out there soldiers o7. I'm always here to consult with so have no fear.</p>
               

@@ -5,9 +5,9 @@ This is going to be a long document so it'll be split up into chapters to make j
 # Table of Contents
 
 
-| Chapters                    | Links                                                                 |
-| --------------------------- | --------------------------------------------------------------------- |
-| 1. Installation Guides      | [Installation Guides](#1-installation-guides)       |
+| Chapters                    | Links                                                   |
+| --------------------------- | ------------------------------------------------------- |
+| 1. Installation Guides      | [Installation Guides](#1-installation-guides)           |
 | 2. Where to Find Everything | [Where to Find Everything](#2-where-to-find-everything) |
 | 3. Running The Program      | [Running The Program](#3-running-the-program)           |
 | 4. Database Management      | [Database Management](#4-database-management)           |
@@ -121,6 +121,149 @@ Our main priorities are :
 
 Ensure there is consistency within the database, collaborate with each other and refer to me with any complications
 
+
+## Missing Data Entries
+
+One of the biggest issues is sometimes a data entry will be missed. If this happens refer back to [Running the Program](#3-running-the-program) for what code to add and how to run it.
+
+Sometimes the database will be missing an entry due to an issue with collection. This happens sometimes, feel free to let me know. What you need to do is manually insert a new document into the **data** collection. Below is a template on what to insert
+
+```json
+
+/** 
+* Paste one or more documents here
+*/
+{
+  "user_id": Insert Fitbit ID here (As a String),
+  "date": Insert Date here (As a YYYY-MM-DD String),
+  "activities": [
+    {
+      "activityId": 90013,
+      "activityParentId": 90013,
+      "activityParentName": "Walk",
+      "calories": 1829,
+      "description": "Walking less than 2 mph, strolling very slowly",
+      "duration": 14233000,
+      "hasActiveZoneMinutes": true,
+      "hasStartTime": true,
+      "isFavorite": false,
+      "lastModified": "2024-06-06T00:14:36.000Z",
+      "logId": 63921524675,
+      "name": "Walk",
+      "startDate": Insert Date here (As a YYYY-MM-DD String),
+      "startTime": "15:57",
+      "steps": 22984
+    }
+  ],
+  "goals": {
+    "activeMinutes": 30,
+    "caloriesOut": 2602,
+    "distance": 8.05,
+    "steps": 10000
+  },
+  "summary": {
+    "activeScore": -1,
+    "activityCalories": 2442,
+    "caloriesBMR": 1743,
+    "caloriesOut": 3788,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 19.22
+      },
+      {
+        "activity": "tracker",
+        "distance": 19.22
+      },
+      {
+        "activity": "loggedActivities",
+        "distance": 0
+      },
+      {
+        "activity": "veryActive",
+        "distance": 16.76
+      },
+      {
+        "activity": "moderatelyActive",
+        "distance": 0.72
+      },
+      {
+        "activity": "lightlyActive",
+        "distance": 1.71
+      },
+      {
+        "activity": "sedentaryActive",
+        "distance": 0
+      }
+    ],
+    "fairlyActiveMinutes": 26,
+    "heartRateZones": [
+      {
+        "caloriesOut": 1159.39162,
+        "max": 112,
+        "min": 30,
+        "minutes": 539,
+        "name": "Out of Range"
+      },
+      {
+        "caloriesOut": 1808.51534,
+        "max": 140,
+        "min": 112,
+        "minutes": 236,
+        "name": "Fat Burn"
+      },
+      {
+        "caloriesOut": 0,
+        "max": 175,
+        "min": 140,
+        "minutes": 0,
+        "name": "Cardio"
+      },
+      {
+        "caloriesOut": 0,
+        "max": 220,
+        "min": 175,
+        "minutes": 0,
+        "name": "Peak"
+      }
+    ],
+    "lightlyActiveMinutes": 123,
+    "marginalCalories": 1660,
+    "restingHeartRate": 57,
+    "sedentaryMinutes": 1060,
+    "steps": 26447,
+    "veryActiveMinutes": 231
+  }
+}
+```
+
+After you do this, go into the **plan** collection and find the correct participant based on their participant number. Go to their completedUnplannedActivities field and then delete the date that corresponds to the date of the new data entry that you just added. Go to their completedPlannedActivities and add in the activity into the list. Here is a template for an activity
+
+```json
+{
+      "activityId": 90013,
+      "activityParentId": 90013,
+      "activityParentName": "Walk",
+      "calories": 1514,
+      "description": "Walking less than 2 mph, strolling very slowly",
+      "duration": 11929000,
+      "hasActiveZoneMinutes": true,
+      "hasStartTime": true,
+      "isFavorite": false,
+      "lastModified": "2024-06-04T00:04:56.000Z",
+      "logId": 63877453590,
+      "name": "Walk",
+      "startDate": Insert Date here (As a YYYY-MM-DD String),
+      "startTime": "15:47",
+      "steps": 18848
+    },
+```
+
+After you do this, add the final two lines into the index.js file in the roybal codebase and run `bun index.js`:
+```js
+await processPlans()
+await processPoints()
+ ```
 # 5. Misc Info
 
 I can't actually think of anything but thanks for reading good luck out there soldiers o7. I'm always here to consult with so have no fear.
