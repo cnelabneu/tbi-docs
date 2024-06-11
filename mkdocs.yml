@@ -1,6 +1,12 @@
 site_name: TBI Lab Documentation
-nav: 
+nav:
+  - Login: login.md
   - Home: index.md
   - Roybal: roybal.md
-theme: readthedocs
 repo_url: https://github.com/HypeFish/tbi-docs.git
+theme:
+  name: readthedocs
+  custom_dir: docs/theme
+
+extra_javascript:
+  - /js/custom_login.js
