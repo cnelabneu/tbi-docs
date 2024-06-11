@@ -10,3 +10,4 @@ theme:
 
 extra_javascript:
   - /js/custom_login.js
+  
