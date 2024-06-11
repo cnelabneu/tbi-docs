@@ -28,7 +28,7 @@ On your local computer, make sure you have the following things installed on you
 3. MongoDB Compass:
     1. You could use the web browser too if that works out for you, I prefer the application itself
     2. [From this Link](https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters) you can access the collections (tables of data) through clicking on "Browse Collections".
-    3. If you chose to use the application Compass, use the correct connection string
+    3. If you chose to use the application Compass, use the correct connection string: `mongodb+srv://skyehigh:KR65fmTreB0LKVyc@cluster.evnujdo.mongodb.net/`
     4. If anything looks incorrect, you'll be tasked with fixing it. Usually someone will bring it up to you first. If you need any help figuring out how to fix something then let me know
 
 ## Cluster Installation 
@@ -65,7 +65,7 @@ Whenever you push a new change onto the website, you are refreshing the instance
 
 As is practice, always remember to communicate when there is a new push to the codebase so we can make sure to pull the new changes to our own local. 
 
-The database being used is MongoDB, a free cloud service database that the platform connects to send and retrieve information. You should have access to the database. You can connect either through the provided link : [Database Link](https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters) or through connecting through the MongoDB Compass application using the connection string. I prefer the app just because its easier to see and make quick edits as needed, but you're free to use whichever you're most comfy with
+The database being used is MongoDB, a free cloud service database that the platform connects to send and retrieve information. You should have access to the database. You can connect either through the provided link : [Database Link](https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters) or through connecting through the MongoDB Compass application using the connection string: `mongodb+srv://skyehigh:KR65fmTreB0LKVyc@cluster.evnujdo.mongodb.net/`. I prefer the app just because its easier to see and make quick edits as needed, but you're free to use whichever you're most comfy with
 
 
 # 3. Running The Program

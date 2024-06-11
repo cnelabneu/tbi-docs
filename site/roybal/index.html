@@ -127,7 +127,7 @@
 <li>MongoDB Compass:<ol>
 <li>You could use the web browser too if that works out for you, I prefer the application itself</li>
 <li><a href="https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters">From this Link</a> you can access the collections (tables of data) through clicking on "Browse Collections".</li>
-<li>If you chose to use the application Compass, use the correct connection string</li>
+<li>If you chose to use the application Compass, use the correct connection string: <code>mongodb+srv://skyehigh:KR65fmTreB0LKVyc@cluster.evnujdo.mongodb.net/</code></li>
 <li>If anything looks incorrect, you'll be tasked with fixing it. Usually someone will bring it up to you first. If you need any help figuring out how to fix something then let me know</li>
 </ol>
 </li>
@@ -167,7 +167,7 @@
 <p>The code is currently on github, clone the repo and install all the dependencies you need from Node. In the cluster, the code is currently in the repo path of /work/cnelab/roybal/roybal-website/code</p>
 <p>Whenever you push a new change onto the website, you are refreshing the instance of the code being ran on the Vercel website hosting platform. Vercel is what we are using to host the platform in a viewable state, the cluster is being used to automate the timely procedures, such as data collection and reminder messages. </p>
 <p>As is practice, always remember to communicate when there is a new push to the codebase so we can make sure to pull the new changes to our own local. </p>
-<p>The database being used is MongoDB, a free cloud service database that the platform connects to send and retrieve information. You should have access to the database. You can connect either through the provided link : <a href="https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters">Database Link</a> or through connecting through the MongoDB Compass application using the connection string. I prefer the app just because its easier to see and make quick edits as needed, but you're free to use whichever you're most comfy with</p>
+<p>The database being used is MongoDB, a free cloud service database that the platform connects to send and retrieve information. You should have access to the database. You can connect either through the provided link : <a href="https://cloud.mongodb.com/v2/6487b3420908a04e759c5fe5#/clusters">Database Link</a> or through connecting through the MongoDB Compass application using the connection string: <code>mongodb+srv://skyehigh:KR65fmTreB0LKVyc@cluster.evnujdo.mongodb.net/</code>. I prefer the app just because its easier to see and make quick edits as needed, but you're free to use whichever you're most comfy with</p>
 <h1 id="3-running-the-program">3. Running The Program</h1>
 <p>Something <strong>VERY</strong> important to bring up is that even though the code you share is all synced up through git, the code in the cluster is not synced up. If you have a new change that <strong>DOES NOT AFFECTS THE AUTOMATED JOBS</strong>, then there is no need to keep them in sync. If you introduce a change to those automated Cron jobs, then you must change the code that is within the cluster and run <code>pm2 restart index</code>. This will restart the running application and reapply those new changes you've added. </p>
 <p>All of the work you need to do if it comes to bug fixing should be stuff you can do on your local. You will very rarely if ever need to update anything with PM2. Just in case though, its good to be prepared</p>
