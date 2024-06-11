@@ -41,6 +41,14 @@ jobs:
           echo "Listing site directory"
           ls -la site
 
+      - name: Ensure custom JS is included
+        run: |
+          if [ ! -f site/path/to/custom.js ]; then
+            echo "Custom JS file not found, copying..."
+            cp docs/js/custom_login.js site/js/
+          fi
+        shell: bash
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -69,7 +77,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './site'
 
       - name: Deploy to GitHub Pages
         id: deployment
