@@ -6,7 +6,7 @@ function isAuthenticated() {
 
 // Redirect to login page if not authenticated
 function redirectToLogin() {
-    const loginPagePath = '/login/index.html'; // Adjust path as needed, e.g., '/login' if the file is login.html
+    const loginPagePath = '/login'; // Adjust path as needed, e.g., '/login' if the file is login.html
 
     if (!isAuthenticated()) {
         if (window.location.pathname !== loginPagePath) {
