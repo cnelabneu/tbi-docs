@@ -1,5 +1,5 @@
 site_name: TBI Lab Documentation
-site_url: https://cnelabneu.github.io/tbi-docs/
+site_url: https://cnelabneu.github.io/
 nav:
   - Login: login.md
   - Home: index.md
