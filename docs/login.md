@@ -14,7 +14,7 @@ function login() {
     var password = document.getElementById('password').value;
     if (username === 'tbiadmin' && password === 'BrainImpact24') {
         localStorage.setItem('loggedIn', 'true');
-        window.location.href = '/'; // Redirect to MkDocs index page
+        window.location.href = 'index.html'; // Redirect to MkDocs index page
     } else {
         alert('Invalid credentials');
     }
