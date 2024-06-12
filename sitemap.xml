@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cnelabneu.github.io/tbi-docs/index.html</loc>
+         <loc>https://cnelabneu.github.io/index.html</loc>
          <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cnelabneu.github.io/tbi-docs/login.html</loc>
+         <loc>https://cnelabneu.github.io/login.html</loc>
          <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cnelabneu.github.io/tbi-docs/roybal.html</loc>
+         <loc>https://cnelabneu.github.io/roybal.html</loc>
          <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
