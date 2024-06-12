@@ -1,12 +1,12 @@
 site_name: TBI Lab Documentation
-
-site_url: ""
-
+site_url: https://cnelabneu.github.io/tbi-docs/
 nav:
   - Login: login.md
   - Home: index.md
   - Roybal: roybal.md
+
 repo_url: https://github.com/cnelabneu/tbi-docs.git
+use_directory_urls: false
 
 theme:
   name: readthedocs
@@ -15,5 +15,4 @@ theme:
 extra_javascript:
   - js/custom_login.js
 
-plugins: []
 
