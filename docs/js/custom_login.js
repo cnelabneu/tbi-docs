@@ -6,10 +6,10 @@ function isAuthenticated() {
 
 // Redirect to login page if not authenticated
 function redirectToLogin() {
-    const loginPagePath = '/login/index.html'; // Adjust path as needed, e.g., '/login' if the file is login.html
+    const loginPagePath = '/tbi-docs/login.html'; // Adjust path to the correct login page path
 
     if (!isAuthenticated()) {
-        if (window.location.pathname !== loginPagePath) {
+        if (!window.location.pathname.endsWith(loginPagePath)) {
             console.log('User not authenticated. Redirecting to login page.');
             window.location.href = loginPagePath;
         } else {
