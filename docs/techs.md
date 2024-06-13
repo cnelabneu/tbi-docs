@@ -66,7 +66,7 @@ Pre-Screening Call- can be completed by trained uga
 •	Charge Surface Tablet
 •	Initialize actigraph
   o	Prepare sleep log and mailing envelop 
-#2 Baseline Session
+# 2. Baseline Session
 •	Consent & W9
   o	Go through consent form and provide them a copy with the person administering the consent   signing (the important thing is to have the copy we keep having both signatures and they one   they take home having our signature)
   o	Have them complete the W9 at this time as well
