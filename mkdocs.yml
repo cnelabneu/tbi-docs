@@ -1,6 +1,7 @@
 site_name: TBI Lab Documentation
 site_url: https://cnelabneu.github.io/
 nav:
+  - Login: login.md
   - Home: index.md
   - General: 
     - EEG: eeg.md

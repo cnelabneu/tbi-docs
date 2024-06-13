@@ -14,7 +14,7 @@
 | 6. Adverse Events           | [Adverse Events](#6-Adverse-Events)                     |
 
 
-# 1 Inquiry
+#1 Inquiry
 ## Prior to Baseline- Inquiry/Interest etc.
 •	Sources
   o	RedCap form for interest
@@ -66,7 +66,7 @@ Pre-Screening Call- can be completed by trained uga
 •	Charge Surface Tablet
 •	Initialize actigraph
   o	Prepare sleep log and mailing envelop 
-# 2 Baseline Session
+#2 Baseline Session
 •	Consent & W9
   o	Go through consent form and provide them a copy with the person administering the consent   signing (the important thing is to have the copy we keep having both signatures and they one   they take home having our signature)
   o	Have them complete the W9 at this time as well
@@ -135,4 +135,6 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
   o	Make sure you record hyperate and save to participant files after
 •	Sign invoice
 •	Use dpay to pay participant after session 
-# 6 Adverse Events
+#6 Adverse Events
+Fill out adverse events form on redcap
+*we need to add more*
