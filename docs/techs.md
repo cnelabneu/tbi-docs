@@ -14,7 +14,7 @@
 | 6. Adverse Events           | [Adverse Events](#6-Adverse-Events)                     |
 
 
-#1 Inquiry
+# 1. Inquiry
 ## Prior to Baseline- Inquiry/Interest etc.
 •	Sources
   o	RedCap form for interest
@@ -136,3 +136,5 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 •	Sign invoice
 •	Use dpay to pay participant after session 
 #6 Adverse Events
+Fill out adverse events form on redcap
+*we need to add more*
