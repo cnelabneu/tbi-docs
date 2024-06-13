@@ -19,5 +19,6 @@ theme:
 
 extra_javascript:
   - js/custom_login.js
-
-
+  
+markdown_extensions:
+  - attr_list
