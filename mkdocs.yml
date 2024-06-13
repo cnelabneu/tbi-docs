@@ -8,7 +8,7 @@ nav:
     - MRI: mri.md
   - Study:
     - Roybal: roybal.md
-    - techs: techs.md
+    - Techs: techs.md
 
 
 repo_url: https://github.com/cnelabneu/tbi-docs.git
