@@ -1,9 +1,5 @@
 # The Exercise and Concussion Health Study 
 
-
-# Full Protocol Document
-
-
 | Chapters            | Links                                   |
 | ------------------- | --------------------------------------- |
 | 1. Inquiry          | [Inquiry](#1-Inquiry)                   |
