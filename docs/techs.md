@@ -14,7 +14,7 @@
 | 6. Adverse Events           | [Adverse Events](#6-Adverse-Events)                     |
 
 
-# 1. Inquiry
+#1 Inquiry
 ## Prior to Baseline- Inquiry/Interest etc.
 •	Sources
   o	RedCap form for interest
@@ -26,8 +26,8 @@
     	Email is labeled under TECHS once it is added to RedCap and PSL
 •	The RedCap form should eliminate inclusion/exclusion on age and length of time since brain injury
   o	If ineligible, send an email using template to tell them we appreciate their inquiry, but   they are not eligible at this time. 
-##Redcap:
-###Entering New Participant
+## Redcap:
+### Entering New Participant
 •	Participant should begin with inquiry (whether on the phone, email, or online survey (where it’s completed automatically)) 
 •	Change to techsID after prescreening is complete and participant is scheduled 
 Pre-Screening Call- can be completed by trained uga
@@ -52,7 +52,7 @@ Pre-Screening Call- can be completed by trained uga
   o	Secondly confirm Emma, Mark, and one of the undergrads availabilities
 •	If necessary to be in 2 sessions, try to have as close together as possible
 •	Remind of session 24-48 hours prior via text message
-###Preparing for Baseline
+### Preparing for Baseline
 •	Ensure proper rooms are scheduled for Baseline
   o	Neuropysch Room for cognitive/questionnaires
     	Have this reserved for after EEG as well for the tech set-up
@@ -66,14 +66,14 @@ Pre-Screening Call- can be completed by trained uga
 •	Charge Surface Tablet
 •	Initialize actigraph
   o	Prepare sleep log and mailing envelop 
-# 2. Baseline Session
+#2 Baseline Session
 •	Consent & W9
   o	Go through consent form and provide them a copy with the person administering the consent   signing (the important thing is to have the copy we keep having both signatures and they one   they take home having our signature)
   o	Have them complete the W9 at this time as well
 •	Make sure we have their emergency contact. It should be in prescreening and on techs master doc
-###MRI
+### MRI
   MRI protocol
-###Questionnaires/Cog Tasks
+### Questionnaires/Cog Tasks
   o	Health History and Demographics
   o	Hopkins Verbal Learning Test**
     	Done at beginning and followed 20 minutes later with delayed recall/recognition
@@ -90,16 +90,16 @@ Pre-Screening Call- can be completed by trained uga
   o	Promis
   o	Hopkins Verbal Learning Test
     	Delayed Recall & Delayed Recognition
-###EEG
-###BESS
-###Astrand Rhyming VO2 sub max (ALWAYS LAST)
+### EEG
+### BESS
+### Astrand Rhyming VO2 sub max (ALWAYS LAST)
 Make sure you record hyperate and save to participant files after
-###End of Baseline
+### End of Baseline
 At end of the session make sure participant goes home with HR monitor and actigraph (foam pad if balance) and briefing form
 Update the equipment list
 At the end of the Baseline visit, the participant is randomized to aerobic or balance.
 
-#3 Interventions
+# 3 Interventions
 3xweek for 30 minutes for 12 weeks.
 Redcap
 Safety Observer 
@@ -109,10 +109,10 @@ Balance SOP
 Exercise Videos
 Hyperate
 
-#4 Actigraphs
+# 4 Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
 
-#5 Endpoint Session
+# 5 Endpoint Session
 •	At week 10, text or ask participant during a session to schedule endpoint.
   o	1 day before endpoint text participant to remind them of session and to remind them to        bring back equipment (HR monitor, actigraph, foam pad if balance)
 •	MRI
