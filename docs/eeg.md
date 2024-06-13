@@ -95,7 +95,7 @@ Export data (motion, markers, demographics, EDF)
 
 - Copy folder in the cluster 
 
-## CLEANING 
+## Cleaning 
 - 1 plastic bucket 
 - 1 glass jar 
 - 1 plastic baggie 

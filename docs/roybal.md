@@ -99,7 +99,7 @@ The database is where all the fun and pain begins! Once you log in and click on 
 In Mongo, a collection is essentially a table. I will be using Mongo terminology from this point onward. 
 
 Here are the collections that are currently in the database as of June 10th 2024
-![image3](img/roybal/img3.png)
+![image3](img/img3.png)
 
 Our main priorities are :
 - **admin** - stores the log in information for the website admin side. The correct log in for the Roybal admin site is the second data entry
