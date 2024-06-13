@@ -10,7 +10,7 @@
 | 6. Adverse Events   | [Adverse Events](#6-Adverse-Events)     |
 
 
-## 1 Inquiry
+## 1. Inquiry
 ### Prior to Baseline- Inquiry/Interest etc.
 -	Sources
   -	RedCap form for interest
@@ -63,7 +63,7 @@ Pre-Screening Call- can be completed by trained uga
 -	Charge Surface Tablet
 -	Initialize actigraph
   -	Prepare sleep log and mailing envelop 
-## 2 Baseline Session
+## 2. Baseline Session
 -	Consent & W9
   -	Go through consent form and provide them a copy with the person administering the consent   signing (the important thing is to have the copy we keep having both signatures and they one   they take home having our signature)
   o	Have them complete the W9 at this time as well
@@ -96,7 +96,7 @@ At end of the session make sure participant goes home with HR monitor and actigr
 Update the equipment list
 At the end of the Baseline visit, the participant is randomized to aerobic or balance.
 
-## 3 Interventions
+## 3. Interventions
 - 3xweek for 30 minutes for 12 weeks.
 - Redcap
 - Safety Observer 
@@ -106,10 +106,10 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 - Exercise Videos
 - Hyperate
 
-## 4 Actigraphs
+## 4. Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
 
-## 5 Endpoint Session
+## 5. Endpoint Session
 -	At week 10, text or ask participant during a session to schedule endpoint.
   o	1 day before endpoint text participant to remind them of session and to remind them to        bring back equipment (HR monitor, actigraph, foam pad if balance)
 -	MRI
@@ -133,7 +133,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 -	Sign invoice
 -	Use dpay to pay participant after session 
 
-## 6 Adverse Events
+## 6. Adverse Events
 Fill out adverse events form on redcap
 
 *we need to add more*
