@@ -40,4 +40,10 @@ mkdocs build
 mkdocs gh-deploy
 ```
 
+Push your code to the github with the following commands:
+
+```bash
+git add .; git commit -m "new changes"; git push origin main
+```
+
 Then push your code here, and within a few minutes, the documentation will update!
