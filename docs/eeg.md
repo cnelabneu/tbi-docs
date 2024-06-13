@@ -1,36 +1,24 @@
-TBI lab EEG protocol 
+# TBI lab EEG protocol 
 
-Material 
+## Material 
+- 1 plastic bin 
+- 1 Emotiv Cap (54-56-58 sizes) 
+- 1 amplifier  
+- 1 bottle of saline  
+- 1 towel 
+- 1 glass cup 
+- 2 gauzes 
+- 34 felts  
+- 1 measuring tape 
+- 1 bottle of alcohol 
+- 1 bottle of Nuprep 
+- 1 Laptop w/ Emotiv Pro license already installed 
 
-1 plastic bin 
-
-1 Emotiv Cap (54-56-58 sizes) 
-
-1 amplifier  
-
-1 bottle of saline  
-
-1 towel 
-
-1 glass cup 
-
-2 gauzes 
-
-34 felts  
-
-1 measuring tape 
-
-1 bottle of alcohol 
-
-1 bottle of Nuprep 
-
-1 Laptop w/ Emotiv Pro license already installed 
-
-Prior session procedures: 
+## Prior session procedures: 
 
 Measure head diameter from nasion to inion. Always rounding down. *for example: if a head is 57cm use size 56cm cap .  
 
- 
+![measure](img/Picture1.png)
 
 Report length and type of hair (ex: short & thin or long & thick, etc.): this information will help to pick the most convenient felts size   
 
