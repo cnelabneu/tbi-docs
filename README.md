@@ -17,12 +17,36 @@ site_name: TBI Lab Documentation
 nav:
   - Login: login.md
   - Home: index.md
-  - Roybal: roybal.md
-  - Survey: survey.md <----- New page!! Make sure this file exists
-
+  - General: 
+    - EEG: eeg.md
+    - MRI: mri.md
+  - Study:
+    - Roybal: roybal.md
+    - techs: techs.md
+    - survey: survey.md <---- This is the new one! Make sure to add the appropriate Markdown file in the docs directory
 ```
 
 Once you add the new page into the mkdocs.yml file, create a new file that has the name of the page you just added. The file should go into the **docs/** directory with the rest of the other Markdown files. You can create the webpage using only Markdown semantics, and it'll be translated to HTML and CSS to match the Markdown format. 
+
+
+The format of the docs/ directory is like this:
+.
+└── docs/
+    ├── js/
+    │   └── file.js
+    ├── img/
+    │   ├── img1.png
+    │   ├── img2.png
+    │   └── im3.jpg
+    ├── theme/
+    │   └── index.html
+    ├── index.md
+    ├── login.md
+    ├── roybal.md
+    ├── techs.md
+    └── etc.md
+
+All of the mardown files belong on the same level as each other. Each image should be in the img folder. js holds custom javascript code. theme is the theme for the website, best left untouched.
 
 To view a dev version of the website, travel to the root directory of this repository and type the following:
 
@@ -38,6 +62,12 @@ mkdocs build
 
 ```bash
 mkdocs gh-deploy
+```
+
+Push your code to the github with the following commands:
+
+```bash
+git add .; git commit -m "new changes"; git push origin main
 ```
 
 Then push your code here, and within a few minutes, the documentation will update!

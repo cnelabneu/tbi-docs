@@ -1,12 +1,13 @@
 site_name: TBI Lab Documentation
 site_url: https://cnelabneu.github.io/
 nav:
-  - Login: login.md
   - Home: index.md
   - General: 
     - EEG: eeg.md
+    - MRI: mri.md
   - Study:
     - Roybal: roybal.md
+    - Techs: techs.md
 
 
 repo_url: https://github.com/cnelabneu/tbi-docs.git
