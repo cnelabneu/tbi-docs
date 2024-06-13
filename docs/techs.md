@@ -69,7 +69,8 @@ Pre-Screening Call- can be completed by trained uga
   o	Have them complete the W9 at this time as well
 -	Make sure we have their emergency contact. It should be in prescreening and on techs master doc
 ### MRI
-  MRI protocol
+  [MRI Protocol](mri.md)
+
 ### Questionnaires/Cog Tasks
   -	Health History and Demographics
   -	Hopkins Verbal Learning Test**
@@ -87,8 +88,13 @@ Pre-Screening Call- can be completed by trained uga
   -	Promis
   -	Hopkins Verbal Learning Test
     -	Delayed Recall & Delayed Recognition
+
 ### EEG
+[EEG Protocol](eeg.md)
+
 ### BESS
+[BESS Protocol (Not present yet)](bess.md)
+
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
 Make sure you record hyperate and save to participant files after
 ### End of Baseline
