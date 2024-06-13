@@ -4,14 +4,14 @@
 # Full Protocol Document
 
 
-| Chapters                    | Links                                                   |
-| --------------------------- | ------------------------------------------------------- |
-| 1. Inquiry                  | [Inquiry](#1-Inquiry)                                   |
-| 2. Baseline Session         | [Baseline Session](#2-Baseline-Session)                 |
-| 3. Interventions            | [Interventions](#3-interventions)                       |
-| 4. Actigraphs               | [Actigraphs](#4-Actigraphs)                             |
-| 5. Endpoint Events          | [Endpoint Session](#5-Endpoint-Session)                 |
-| 6. Adverse Events           | [Adverse Events](#6-Adverse-Events)                     |
+| Chapters            | Links                                   |
+| ------------------- | --------------------------------------- |
+| 1. Inquiry          | [Inquiry](#1-Inquiry)                   |
+| 2. Baseline Session | [Baseline Session](#2-Baseline-Session) |
+| 3. Interventions    | [Interventions](#3-interventions)       |
+| 4. Actigraphs       | [Actigraphs](#4-Actigraphs)             |
+| 5. Endpoint Events  | [Endpoint Session](#5-Endpoint-Session) |
+| 6. Adverse Events   | [Adverse Events](#6-Adverse-Events)     |
 
 
 #1 Inquiry
@@ -137,4 +137,5 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 •	Use dpay to pay participant after session 
 #6 Adverse Events
 Fill out adverse events form on redcap
+
 *we need to add more*
