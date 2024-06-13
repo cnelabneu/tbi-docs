@@ -10,11 +10,11 @@
 | 2. Baseline Session         | [Baseline Session](#2-Baseline-Session)                 |
 | 3. Interventions            | [Interventions](#3-interventions)                       |
 | 4. Actigraphs               | [Actigraphs](#4-Actigraphs)                             |
-| 5. Endpoint Events          | [Baseline Session](#5-Endpoint-Session)                 |
+| 5. Endpoint Events          | [Endpoint Session](#5-Endpoint-Session)                 |
 | 6. Adverse Events           | [Adverse Events](#6-Adverse-Events)                     |
 
 
-##1-Inquiry
+# 1. Inquiry
 ## Prior to Baseline- Inquiry/Interest etc.
 •	Sources
   o	RedCap form for interest
