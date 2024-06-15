@@ -1,4 +1,4 @@
-#Getting access to /work/cnelab in Discovery Cluster
+# Getting access to /work/cnelab in Discovery Cluster
 
 Go to the [website](https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=0ae24596db535fc075892f17d496199c) and enter relevant information.
  - userID is your Northeastern username 
