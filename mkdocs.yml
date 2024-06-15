@@ -5,6 +5,7 @@ nav:
   - General: 
     - EEG: eeg.md
     - MRI: mri.md
+    - OOD Cluster: oodcluster.md
   - Study:
     - Roybal: roybal.md
     - Techs: techs.md
