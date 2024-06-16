@@ -7,13 +7,13 @@
 6. Add contact information to TBI Contacts sheet 
 7. Upload your CPR certificate to the one drive or sign up to get certified (its okay if you are not able to get certified right away, just sign up for the next available one) 
 8. Complete [CITI training](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0&region=1&message=0#)
-  - Complete Registration
+    - Complete Registration
     [citi1](/docs/img/citi/citi1.png)
-  - Select NO for CE Credits (unless required for another course/lab but most likely not)
+    - Select NO for CE Credits (unless required for another course/lab but most likely not)
     [citi2](/img/citi/citi2.png)
     [citi3](/img/citi/citi3.png)
     [citi4](/img/citi/citi4.png)
-  - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
+    - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
 12. Join [OOD Cluster](oodcluster.md)
