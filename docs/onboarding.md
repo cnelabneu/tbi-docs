@@ -36,6 +36,6 @@ Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
 
-Familiarize yourself with [redcap training](/img/techs/redcap.pdf)  
+Familiarize yourself with [redcap training](/docs/img/techs/redcap.pdf)  
 
  
