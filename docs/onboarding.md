@@ -10,9 +10,9 @@
   - Complete Registration
     [citi1](/docs/img/citi/citi1.png)
   - Select NO for CE Credits (unless required for another course/lab but most likely not)
-    [citi2](/docs/img/citi/citi2.png)
-    [citi3](/docs/img/citi/citi3.png)
-    [citi4](/docs/img/citi/citi4.png)
+    [citi2](/img/citi/citi2.png)
+    [citi3](/img/citi/citi3.png)
+    [citi4](/img/citi/citi4.png)
   - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
@@ -30,12 +30,12 @@ If there is an emergency during a TECHS session- Call Emma immediately.
 
 ## Training for TECHS 
 
-Familiarize yourself with [Safety officer protocols](docs/img/techs/so.pdf)
+Familiarize yourself with [Safety officer protocols](/img/techs/so.pdf)
 
-Familiarize yourself with [aerobic](docs/img/techs/aerobic.pdf) and [balance](docs/img/techs/balance.pdf)
+Familiarize yourself with [aerobic](/img/techs/aerobic.pdf) and [balance](/img/techs/balance.pdf)
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
 
-Familiarize yourself with [redcap training](docs/img/techs/redcap.pdf)  
+Familiarize yourself with [redcap training](/img/techs/redcap.pdf)  
 
  
