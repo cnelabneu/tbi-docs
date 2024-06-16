@@ -1,4 +1,4 @@
-#Onboaring for TBI lab
+# Onboaring for TBI lab
 1. Please join the slack channel 
 2. Request access to the one drive 
 3. Access the google calendar and [learn how to read it](calendar.md)  
@@ -17,7 +17,7 @@
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
 
-##Communication 
+## Communication 
 If you need to communicate with Graduate Students, please use slack. If you need to communicate with each other regarding TECHS or lab specific things, I recommend you also use slack. Communication with Dr. Morris should be an email, unless he tells you otherwise! 
 
 We will often use slack to ask people to help out with rescheduled sessions and to notify people about cancellations. That being said, we recommend keeping notifications on during working hours and the app downloaded on your phone.  
