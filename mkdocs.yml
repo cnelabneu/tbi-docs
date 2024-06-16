@@ -6,6 +6,8 @@ nav:
     - EEG: eeg.md
     - MRI: mri.md
     - OOD Cluster: oodcluster.md
+    - Calendar: calendar.md
+    - Onboarding: onboarding.md
   - Study:
     - Roybal: roybal.md
     - Techs: techs.md
