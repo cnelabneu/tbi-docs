@@ -16,7 +16,7 @@
   - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
-
+12. Join [OOD Cluster](oodcluster.md)
 ## Communication 
 If you need to communicate with Graduate Students, please use slack. If you need to communicate with each other regarding TECHS or lab specific things, I recommend you also use slack. Communication with Dr. Morris should be an email, unless he tells you otherwise! 
 
