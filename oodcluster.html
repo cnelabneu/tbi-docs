@@ -3,18 +3,18 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://cnelabneu.github.io/login.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://cnelabneu.github.io/oodcluster.html" />
       <link rel="shortcut icon" href="img/favicon.ico" />
-    <title>Login - TBI Lab Documentation</title>
+    <title>OOD Cluster - TBI Lab Documentation</title>
     <link rel="stylesheet" href="css/theme.css" />
     <link rel="stylesheet" href="css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Login";
-        var mkdocs_page_input_path = "login.md";
-        var mkdocs_page_url = "/login.html";
+        var mkdocs_page_name = "OOD Cluster";
+        var mkdocs_page_input_path = "oodcluster.md";
+        var mkdocs_page_url = "/oodcluster.html";
       </script>
     
     <!--[if lt IE 9]>
@@ -44,12 +44,14 @@
                 </li>
               </ul>
               <p class="caption"><span class="caption-text">General</span></p>
-              <ul>
+              <ul class="current">
                   <li class="toctree-l1"><a class="reference internal" href="eeg.html">EEG</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="mri.html">MRI</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="oodcluster.html">OOD Cluster</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">OOD Cluster</a>
+    <ul class="current">
+    </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="calendar.html">Calendar</a>
                   </li>
@@ -77,9 +79,10 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="index.html" class="icon icon-home" aria-label="Docs"></a></li>
-      <li class="breadcrumb-item active">Login</li>
+          <li class="breadcrumb-item">General</li>
+      <li class="breadcrumb-item active">OOD Cluster</li>
     <li class="wy-breadcrumbs-aside">
-          <a href="https://github.com/cnelabneu/tbi-docs.git/edit/master/docs/login.md" class="icon icon-github"> Edit on GitHub</a>
+          <a href="https://github.com/cnelabneu/tbi-docs.git/edit/master/docs/oodcluster.md" class="icon icon-github"> Edit on GitHub</a>
     </li>
   </ul>
   <hr/>
@@ -87,30 +90,20 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="login">Login</h1>
-<form onsubmit="login(); return false;">
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username"><br><br>
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password"><br><br>
-    <input type="submit" value="Login">
-</form>
-
-<script>
-function login() {
-    var username = document.getElementById('username').value;
-    var password = document.getElementById('password').value;
-    if (username === 'tbiadmin' && password === 'BrainImpact24') {
-        localStorage.setItem('loggedIn', 'true');
-        window.location.href = 'index.html'; // Redirect to MkDocs index page
-    } else {
-        alert('Invalid credentials');
-    }
-}
-</script>
+                <h1 id="getting-access-to-workcnelab-in-discovery-cluster">Getting access to /work/cnelab in Discovery Cluster</h1>
+<p>Go to the <a href="https://service.northeastern.edu/tech?id=sc_cat_item&amp;sys_id=0ae24596db535fc075892f17d496199c">website</a> and enter relevant information.
+ - userID is your Northeastern username 
+ - University sponsor is PI name (Timothy Morris) 
+ - Gaussian: No 
+ - Submit </p>
+<p>Email RC Help Desk (rchelp@northeastern.edu) asking for access to /work/cnelab </p>
               
             </div>
           </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="mri.html" class="btn btn-neutral float-left" title="MRI"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="calendar.html" class="btn btn-neutral float-right" title="Calendar">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
 
   <hr/>
 
@@ -136,6 +129,10 @@ function login() {
         </span>
     
     
+      <span><a href="mri.html" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="calendar.html" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
