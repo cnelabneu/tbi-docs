@@ -7,7 +7,7 @@ We use fmriprep to preprocess structural and functional data. See [internal code
 ##dwi
 We use MRtrix3 to preprocess DWI data to prepare for traditional (FA) and fixel based analysis. See [internal code here](https://github.com/emmatinney/mrtrix3_dwi). See [MRtrix3 documentation here](https://mrtrix.readthedocs.io/en/latest/). 
 If you want to use fsl, see [code here](https://github.com/emmatinney/fsl_dti) and (official documenation here)[https://fsl.fmrib.ox.ac.uk/fslcourse/2019_Beijing/lectures/FDT/fdt1.html#pipeline].
-If you want to use TBSS to do analysis on DTI data, see [code here](https://github.com/emmatinney/fsl_dti/tbss.sh). Consider using [PALM](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM) to do analyses instead.
+If you want to use TBSS to do analysis on DTI data, see TBSS.sh script. Consider using [PALM](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM) to do analyses instead.
 If you want to do fixel based analysis, see code for [IGNITE analysis](https://github.com/emmatinney/ignite_fba) here. See [official documentation](https://mrtrix.readthedocs.io/en/0.3.16/workflows/fixel_based_analysis.html).
 ##asl
 We use basil to preprocess ASL data. Here you can find the [internal code](https://github.com/emmatinney/asl) and here you can find more information from the [BASIL wiki](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BASIL).
