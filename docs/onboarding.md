@@ -30,7 +30,7 @@ If there is an emergency during a TECHS session- Call Emma immediately.
 
 ## Training for TECHS 
 
-Familiarize yourself with [Safety officer protocols](docs/img/techs/so.pdf)
+Familiarize yourself with [Safety officer protocols](/docs/img/techs/so.pdf)
 
 Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/docs/img/techs/balance.pdf)
 
