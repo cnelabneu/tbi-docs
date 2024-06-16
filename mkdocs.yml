@@ -6,6 +6,7 @@ nav:
     - EEG: eeg.md
     - MRI: mri.md
     - Onboarding: onboarding.md
+    - Imaging Preprocessing Protocols: imagingprotocols.md
   - Study:
     - Roybal: roybal.md
     - Techs: techs.md
