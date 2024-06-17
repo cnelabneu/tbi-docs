@@ -10,9 +10,9 @@
     - Complete Registration
     ![citi1](/docs/img/citi/citi1.png)
     - Select NO for CE Credits (unless required for another course/lab but most likely not)
-    ![citi2](/img/citi/citi2.png)
-    ![citi3](/img/citi/citi3.png)
-    ![citi4](/img/citi/citi4.png)
+    ![citi2](/docs/img/citi/citi2.png)
+    ![citi3](/docs/img/citi/citi3.png)
+    ![citi4](/docs/img/citi/citi4.png)
     - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
