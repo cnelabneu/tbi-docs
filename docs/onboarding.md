@@ -10,6 +10,7 @@
     - Complete Registration
       ![citi1](/img/citi/citi1.png)
       <img src="/img/citi/citi1.png" alt="citi1" width="200"/>
+      <img src="/docs/img/citi/citi1.png" alt="citi1" width="200"/>
     - Select NO for CE Credits (unless required for another course/lab but most likely not)
     ![citi2](/docs/img/citi/citi2.png)
     ![citi3](/docs/img/citi/citi3.png)
