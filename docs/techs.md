@@ -2,12 +2,12 @@
 
 | Chapters            | Links                                   |
 | ------------------- | --------------------------------------- |
-| 1. Inquiry          | [Inquiry](#1-Inquiry)                   |
-| 2. Baseline Session | [Baseline Session](#2-Baseline-Session) |
+| 1. Inquiry          | [Inquiry](#1-inquiry)                   |
+| 2. Baseline Session | [Baseline Session](#2-baseline-session) |
 | 3. Interventions    | [Interventions](#3-interventions)       |
-| 4. Actigraphs       | [Actigraphs](#4-Actigraphs)             |
-| 5. Endpoint Events  | [Endpoint Session](#5-Endpoint-Session) |
-| 6. Adverse Events   | [Adverse Events](#6-Adverse-Events)     |
+| 4. Actigraphs       | [Actigraphs](#4-actigraphs)             |
+| 5. Endpoint Events  | [Endpoint Session](#5-endpoint-session) |
+| 6. Adverse Events   | [Adverse Events](#6-adverse-events)     |
 
 
 ## 1. Inquiry
