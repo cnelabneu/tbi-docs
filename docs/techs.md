@@ -140,6 +140,6 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 -	Use dpay to pay participant after session 
 
 ## 6. Adverse Events
-Fill out adverse events form on redcap
-
-*we need to add more*
+Fill out adverse events form on redcap.
+- Serious adverse events are reported to IRB within 48 hours. It includes death, life threatening, long hospitlization or damage, general abnormality or birth defecrt.
+- Anything else should be reported to IRB within 10 days. 
