@@ -8,8 +8,10 @@
 7. Upload your CPR certificate to the one drive or sign up to get certified (its okay if you are not able to get certified right away, just sign up for the next available one) 
 8. Complete [CITI training](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0&region=1&message=0#)
     - Complete Registration
+
       <img src="img/citi/citi1.png" alt="citi1" width="200"/>
     - Select NO for CE Credits (unless required for another course/lab but most likely not)
+
       <img src="img/citi/citi2.png" alt="citi2" width="200"/>
       <img src="img/citi/citi3.png" alt="citi3" width="200"/>
       <img src="img/citi/citi4.png" alt="citi4" width="200"/>
