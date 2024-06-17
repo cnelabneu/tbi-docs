@@ -10,6 +10,8 @@ nav:
   - Study:
     - Roybal: roybal.md
     - Techs: techs.md
+      - Safety Officer: docs/img/techs/so.pdf
+      - Redcap: docs/img/techs/redcap.pdf
 
 
 repo_url: https://github.com/cnelabneu/tbi-docs.git
