@@ -8,13 +8,11 @@
 7. Upload your CPR certificate to the one drive or sign up to get certified (its okay if you are not able to get certified right away, just sign up for the next available one) 
 8. Complete [CITI training](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0&region=1&message=0#)
     - Complete Registration
-      ![citi1](img/citi/citi1.png)
       <img src="img/citi/citi1.png" alt="citi1" width="200"/>
-      <img src="/docs/img/citi/citi1.png" alt="citi1" width="200"/>
     - Select NO for CE Credits (unless required for another course/lab but most likely not)
-    ![citi2](/docs/img/citi/citi2.png)
-    ![citi3](/docs/img/citi/citi3.png)
-    ![citi4](/docs/img/citi/citi4.png)
+      <img src="img/citi/citi2.png" alt="citi2" width="200"/>
+      <img src="img/citi/citi3.png" alt="citi3" width="200"/>
+      <img src="img/citi/citi4.png" alt="citi4" width="200"/>
     - NOT SOCIAL AND BEHAVIORAL RESPONSIBLE CONDUCT OF RESEARCH 
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
@@ -32,13 +30,13 @@ If there is an emergency during a TECHS session- Call Emma immediately.
 
 ## Training for TECHS 
 
-Familiarize yourself with [Safety officer protocols](/docs/img/techs/so.pdf)
+Familiarize yourself with [Safety officer protocols](img/techs/so.pdf)
 
 Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/docs/img/techs/balance.pdf)
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
 
-Familiarize yourself with <a href="/docs/img/techs/redcap.pdf">redcap training</a>
+Familiarize yourself with <a href="img/techs/redcap.pdf">redcap training</a>
 
 
  
