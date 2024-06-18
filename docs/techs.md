@@ -103,13 +103,13 @@ Update the equipment list
 At the end of the Baseline visit, the participant is randomized to aerobic or balance.
 
 ## 3. Interventions
-- 3xweek for 30 minutes for 12 weeks.
-- [Redcap](img/techs/redcap.pdf)
-- [Safety Observer](so.md)
-- [Session Leader Notes](leadernotes.md)
-- [Aerobic Protocol](aerobicprotocol.md)
-- [Balance Protocol](balanceprotocol.md)
-- [Hyperate](https://hyperate4health.netlify.app/)
+3xweek for 30 minutes for 12 weeks.
+  - [Redcap](img/techs/redcap.pdf)
+  - [Safety Observer](so.md)
+  - [Session Leader Notes](leadernotes.md)
+  - [Aerobic Protocol](aerobicprotocol.md)
+  - [Balance Protocol](balanceprotocol.md)
+  - [Hyperate](https://hyperate4health.netlify.app/)
 
 ## 4. Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
@@ -137,7 +137,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 ### BESS
 [BESS Protocol](bess.md)
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
-  -	Make sure you record hyperate and save to participant files after
+- Make sure you record hyperate and save to participant files after
 -	Sign invoice
 -	Use dpay to pay participant after session 
 
