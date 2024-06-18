@@ -135,6 +135,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 ### EEG
 [EEG Protocol](eeg.md)
 ### BESS
+[BESS Protocol](bess.md)
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
   -	Make sure you record hyperate and save to participant files after
 -	Sign invoice
