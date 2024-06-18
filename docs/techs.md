@@ -93,7 +93,7 @@ Pre-Screening Call- can be completed by trained uga
 [EEG Protocol](eeg.md)
 
 ### BESS
-[BESS Protocol (Not present yet)](bess.md)
+[BESS Protocol](bess.md)
 
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
 Make sure you record hyperate and save to participant files after
