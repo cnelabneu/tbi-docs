@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://cnelabneu.github.io/redcap.html" />
+      <link rel="shortcut icon" href="img/favicon.ico" />
+    <title>RedCap and Hyperate4Health Protocols - TBI Lab Documentation</title>
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="stylesheet" href="css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "RedCap and Hyperate4Health Protocols";
+        var mkdocs_page_input_path = "redcap.md";
+        var mkdocs_page_url = "/redcap.html";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="index.html" class="icon icon-home"> TBI Lab Documentation
+        </a>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="index.html">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">General</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="eeg.html">EEG</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="mri.html">MRI</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="onboarding.html">Onboarding</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="imagingprotocols.html">Imaging Preprocessing Protocols</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Study</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="roybal.html">Roybal</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="techs.html">Techs</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">TBI Lab Documentation</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html" class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">RedCap and Hyperate4Health Protocols</li>
+    <li class="wy-breadcrumbs-aside">
+          <a href="https://github.com/cnelabneu/tbi-docs.git/edit/master/docs/redcap.md" class="icon icon-github"> Edit on GitHub</a>
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <div><h1 id="redcap-and-hyperate4health-protocols">RedCap and Hyperate4Health Protocols</h1>
+<h2 id="hyperate4health-protocols">Hyperate4Health Protocols</h2>
+<ol>
+<li>Download HypeRate4Health onto your computer</li>
+<li>Open App</li>
+<li>Enter HypeRate ID ex: 219E (given by the participant)</li>
+<li>Enter Subject ID ex: 08 (for techs08)</li>
+<li>Enter path (i.e. where you want the .csv file to be saved on your computer) ex: /Users/madeleineperko/Desktop</li>
+<li>Click “Sign In”</li>
+<li>To start recording the session, click “Start”</li>
+<li>To stop recording the session, click “Quit” → this will SAVE the session to the path you designated</li>
+<li>Close Hyperate4Health application</li>
+<li>Find the saved file, and rename it “hr_sub_xx_dxx” ex: hr_sub_08_d01.csv
+(for techs08, intervention 01)</li>
+<li>Upload the file to: CNELabFiles/TECHS/intervention_hr_files/techsXX in OneDrive
+NOTE: Participants do NOT need to share their screen.You can see their HR live using the app or on the website using the participants Subject ID
+ex: https://app.hyperate.io/219E</li>
+</ol>
+<h2 id="redcap-protocols">REDCap Protocols</h2>
+<h3 id="start-of-the-session">Start of the Session:</h3>
+<p><strong>Date of Intervention (MM/DD/YYYY)</strong> = Date that intervention occurs on.
+  Example: If the intervention occurred on February 3nd, 2024, enter 02/03/2024</p>
+<p><strong>24-Hour Start Time of HR Monitoring (HH:MM)</strong> = Time of day when intervention starts. Do NOT enter AM or PM; use 24-hour time.
+  Example: if the intervention started at 3:30, enter: 15:30</p>
+<h3 id="data-collection">Data Collection:</h3>
+<p>For each 5-minute check-in, record:
+1. Heart Rate
+2. BORG
+3. Symptoms
+4. CIF Symptom Checklist Score</p>
+<p><strong>5 Minute Check-Ins = Record Data (listed above)</strong></p>
+<p>These occur at:
+-   Baseline at 0:00 → this score serves as a baseline for the participants symptom status prior to the intervention
+-   5:00, 10:00, 15:00, 20:00, 25:00, 30:00 → determine whether the intensity of the intervention needs to be scaled back. This determination is made if the participant reaches their symptom threshold (i.e. baseline CIF score + 3 = symptom threshold)</p>
+<p><strong>Symptoms, CIF Symptom Checklist Score, and Symptom Threshold</strong>
+-   <strong><em>Do NOT leave a symptom blank.</em></strong> Select a bubble for each symptom listed (i.e if participant does not report a symptom, still denote that symptom with a bubble → “0”)
+-   <strong>CIF Symptom Checklist Score</strong> = the SUM of the symptoms reported at the corresponding 5-minute interval check-in
+-   Subsequent check-ins determine whether the intensity of the intervention needs to be scaled back. This determination is made if the participant reaches their symptom threshold (i.e. baseline CIF score + 3 = symptom threshold)
+-   If a participant reaches their symptom threshold, ALERT the intervention leader so intensity reduction protocol can be initiated</p>
+<p><strong>Symptom Substitute</strong></p>
+<p>If a participant reports a symptom that is not a listed option, choose a symptom on the RedCap list that best resembles the reported symptom and that the participant did not report experiencing. Then record the severity of the reported symptom using the bubbles, and click the comment tab to record the intended symptom.</p>
+<p>Example:
+-   Difficulty Concentrating is not a listed symptom in the Minute-5 Check-in Symptom List.
+-   If the participant reports Difficulty Concentrating with a severity of 2, then click an option that was reported as severity 0, such as Feeling in a Fog. Report severity 2 in the Feeling in a Fog row and note the symptom as Difficulty
+Concentrating in the comment section</p>
+<h3 id="end-of-the-session">End of the Session:</h3>
+<p>Cessation Time = Amount of time (minutes) the intervention ran for.
+Example A: The intervention ran for an entire 30 minutes (goal of programming)
+Cessation Time: 30:00
+Example B: Intervention was STOPPED due to symptoms increasing beyond Symptom Threshold, and despite intensity reduction protocol (protocol when Symptom Threshold is met; described in table below).
+Symptom Threshold Protocol during intervention
+1 &amp; 2 = completed programming
+-   cessation time: 30:00
+3 = intervention stopped early due to increasing symptoms
+    -   cessation time:</p>
+<blockquote>
+<p>30:00  1.
+2.
+-
+3.
+-
+-   If symptom threshold is reached (baseline CIF symptom score + 3),
+●   participant takes a 1-minute break, then,
+●   the intervention leader reduces the exercise intensity =&gt; participant HR should not exceed
+60% their HR max
+If session continues until the end of programming, cessation time: 30:00
+If symptoms increase again,
+●   1-minute break, then,
+●   reduce to 40% HR max (~100-110 bpm) If session continues until the end of programming, cessation time: 30:00
+If symptoms still increase, stop exercise and start the cool down.
+cessation time: minutes the session ran for Example: if exercises were stopped at minute 20, then cessation time would be at minute 25 (after cool down), cessation time: 25:00
+HR Max: Determined based on VO2 submaximal testing (obtained during the participant’s baseline session).
+Example C: Intervention had to be shortened due to the intervention starting late.
+-   Goal of AEROBIC interventions = HR 65-80% of HR max for 20 minutes So, if the intervention must be shortened due to time constraints, maximize the exercise component by SHORTENING (not eliminating) warm up and cool down:
+(Ex: 02:30 minute warm up, 20:00 minute intervention, 02:30 minute cool down).
+Cessation Time: 25:00
+    +   add a comment about why the intervention was shortened.
+Example D: Participant leaves early.
+    -   If the participant leaves early,
+Cessation Time: 26:00 Time to Symptom Threshold: 26:00
+Example E: Intervention took longer than 30:00 (usually should not occur).
+-   If Cessation Time is 34:00 (participant completes all of the planned programming but the session took longer than 30:00) then Time to Symptom Threshold should also be 34:00.
+-   If the intervention goes over 30:00 because the participant had to leave the screen (get water, answer the door/phone etc) PAUSE your stopwatch! -  In this scenario, if stopwatch is paused, intervention itself will still likely be 30:00 minutes long
+GOAL of interventions = get to all the programming possible within 30 minutes
+-   BEST: 20 minutes of aerobic exercise (HR at 65-80% HRmax) with 5 min warm-up and 5 min cool-down
+-   2nd best: 20 minutes of aerobic exercise with shortened warm-up and cool down
+-   3rd best: shortened aerobic exercise with shortened warm-up and cool down
+24-Hour End (HH:MM) = Time of day when the intervention ends. Do not enter AM or PM.
+Example A: If the intervention ended at 3:35, then enter 15:35.
+Cessation Symptom Score = the symptom score that the participant reports at the time when the intervention ends.
+NOTE: Cessation Symptom Score is the SAME as 30:00 CIF symptom checklist score if the programming was completed and the session ended at 30 minutes.
+Example A: If the participant reported 0 symptoms when the intervention ended, note 0.</p>
+</blockquote>
+<p>Example B: If the participant reported 2 symptoms when the intervention ended, note 2.</p>
+<p>Example C: If the participant reports a symptom score sum of 7 at 15:00, but reports a score of 6 when the intervention ends at minute 17, then cessation symptom score: 6 Example D: If the intervention ended early, for example at 25:00, record the SAME CIF Symptom Checklist Score for the Cessation Symptom Score.</p>
+<p>Time to Symptom Threshold = the intervention time elapsed when the participant reports experiencing symptoms totaling 3 points higher than their baseline symptom score (= Symptom Threshold).
+Example A: If the participant did NOT reach symptom threshold (baseline score + 3) during the intervention, then record 30:00.
+Cessation time = 30:00
+Time to symptom threshold = 30:00
+Example B: If the participant completes all of the planned programming at 30:00, but reported symptom increase BETWEEN 5-minute check-ins such that symptom threshold is met (participant reports symptoms totaling 7 at minute 17:00, and baseline symptoms totaled 4) then:
+Cessation time = 30:00
+Time to symptom threshold = 17:00
+Example C: If the participant reports a symptom threshold at the 15:00 minute check-in, and the score continues to increase despite 2 attempts to reduce intensity and must be ended at minute 20:00,
+Cessation time = 20:00
+Time to symptom threshold = 15:00
+Resistance
+Version of intervention (A/B/C)
+Example: If the intervention is listed as Version A in the Scheudling_info.docx, record: Resistance: A
+SKIPPED SESSIONS:
+If a participant misses a scheduled session, attempt to reschedule another session WITHIN the week (should complete 3 sessions EVERY week).
+If a participant does NOT complete 3 interventions within a week…
+Example: If techs_12 was scheduled to complete interventions 27, 28 and 29 within a calendar week, but did not complete 28 and 29 within the week, the next intervention they complete the next week (#30 in the Scheduling_info.docx) should be recorded:
+    -   In form #28 in RedCap
+RedCap → DO NOT leave blank forms. Complete the NEXT available form.
+    CORRECT:    WRONG:</p>
+<p>Scheduling_info.docx → Mark interventions not completed within the week as missed
+Intervention Tab:</p>
+<p>Scheduling Progress Tab:</p>
+<p>!!! This will result in a mismatch between the intervention# on RedCap (#28) and the Scheudling_info.docx (#30) on OneDrive...
+THAT IS OK!
+    ●   For recording intervention## in HypeRate, use the RedCap number.</p></div>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/cnelabneu/tbi-docs.git" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+    
+  </span>
+</div>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = ".";</script>
+    <script src="js/theme_extra.js"></script>
+    <script src="js/theme.js"></script>
+      <script src="js/custom_login.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
