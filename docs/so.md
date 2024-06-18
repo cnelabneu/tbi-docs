@@ -53,9 +53,8 @@ E. other person or animal enters the room
  
 
 Heart Rate Debugging Steps
-•	Disconnect and reconnect HR monitor from hyperate app
-•	Disconnect and reconnect HR monitor from bluetooth settings in phone
-•	Put water on the strap (not the actual monitor)
-•	Unclip and reclip the monitor from the strap
+- Disconnect and reconnect HR monitor from hyperate app
+- Disconnect and reconnect HR monitor from bluetooth settings in phone
+- Put water on the strap (not the actual monitor)
+- Unclip and reclip the monitor from the strap
 
-![image](https://github.com/cnelabneu/tbi-docs/assets/94088311/6b3dd674-79b0-41e6-bf15-603126b80932)
