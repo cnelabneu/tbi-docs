@@ -105,6 +105,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 ## 3. Interventions
 ### Protocols
 3xweek for 30 minutes for 12 weeks.
+
 - [Redcap](img/techs/redcap.pdf)
 - [Safety Observer](so.md)
 - [Session Leader Notes](leadernotes.md)
