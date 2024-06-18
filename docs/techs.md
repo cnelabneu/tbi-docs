@@ -119,7 +119,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 [Hyperate](https://hyperate4health.netlify.app/)
 ## 4. Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
-
+[Actigraph Document](actigraph.md)
 ## 5. Endpoint Session
 ### Scheduling endpoint
 -	At week 10, text or ask participant during a session to schedule endpoint.
