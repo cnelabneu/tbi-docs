@@ -21,18 +21,21 @@ Each exercise is ~1 minute each. Increase inensity as needed. repeat 3x
 3. Ball Slams wihout a ball
 4. Lateral shuffles
 5. Kettle Bell swings without a KB
+![type:video](https://youtu.be/NAkpAo_7RoM)
 ## Version B
 1. Large step forward to back shuffle
 2. Skaters
 3. Punching with bent knees
 4. Skiers
 5. Elbow to knee
+![type:video](https://youtu.be/pSJ4kXdxqjI)
 ## Version C
 1. Toe Taps
 2. Standing dead bugs
 3. Step out diagonally with one leg
 4. V-steps
-5. Steps
+5. Steps outs
+![type:video]([https://www.youtube.com/embed/LXb3EKWsIn](https://youtu.be/lc_85b7euno)Q)
 ## Minute 25
 Get symptoms, BORG & HR
 ## Cool Down
