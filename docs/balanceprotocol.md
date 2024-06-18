@@ -40,7 +40,9 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
     -  Normal
     -  Narrow base of support
     -  Single leg
-![type:video](https://www.youtube.com/watch?v=gECKvCpeKe4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gECKvCpeKe4?si=ZkxZE3rjR41arcEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Version B
 1. Seated marches (3 x 30 seconds)
     -  Normal
@@ -57,7 +59,9 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
 5. Clocks (2 x 30 seconds each leg)
     -  Normal
     -  Foam pad
-![type:video](https://www.youtube.com/watch?v=tXh4nSgLAQ8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXh4nSgLAQ8?si=TelylR7wxyvnB4Qy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Version C
 1. Seated Cat Cow (3 x 10 reps)
     -  Normal
@@ -74,7 +78,9 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
 5. Tandem Foot Replacement (4 x 30 seconds)
     -  Normal
     -  Eyes closed
-![type:video](https://www.youtube.com/watch?v=tXh4nSgLAQ8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNud4H4Ei7w?si=D8c762JsCS7vk4h_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Minute 25
 Get symptoms, BORG & HR
 ## Cool Down
