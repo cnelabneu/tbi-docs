@@ -21,7 +21,7 @@
     -	Add to RedCap regardless of eligibility
     -	Email is labeled under TECHS once it is added to RedCap and PSL
 -	The RedCap form should eliminate inclusion/exclusion on age and length of time since brain injury
-  -	If ineligible, send an email using template to tell them we appreciate their inquiry, but   they are not eligible at this time. 
+  -	If ineligible, send an email using template to tell them we appreciate their inquiry, but they are not eligible at this time. 
 ### Redcap:
 #### Entering New Participant
 -	Participant should begin with inquiry (whether on the phone, email, or online survey (where it’s completed automatically)) 
@@ -30,7 +30,7 @@ Pre-Screening Call- can be completed by trained uga
 -	Attempt to confirm a scheduled call over email prior to calling, if possible, if not simply call during appropriate business hours
 -	Use RedCap form for Prescreening and go through the criteria as questions
   -	If unsure, leave a comment or note on the redcap form
-  -	If they flag one of the immediate inclusion/exclusion factors you do not have to continue     the call (not cleared for exercise, age, time since injury or location (if they can travel     to Boston for the baseline without any financial help from us but live elsewhere, that can     work))
+  -	If they flag one of the immediate inclusion/exclusion factors you do not have to continue the call (not cleared for exercise, age, time since injury or location (if they can travel     to Boston for the baseline without any financial help from us but live elsewhere, that can     work))
     -	If you’re unsure, finish the call and consult Emma afterwards.
   -	If they don't have a diagnosis, you can continue the call and ask if they are willing to speak with a clinician to confirm diagnosis. If there is any uncertainty on diagnosis, wait to schedule until Lexie MD verified.
 -	Complete the MRI Subject Screening Form to ensure they can safely have an MRI (Either done on the computer or a hard copy can be printed and scanned in)
@@ -80,7 +80,7 @@ Pre-Screening Call- can be completed by trained uga
   -	Letter and Category Fluency
   -	OSU
   -	TMT
-    -	Digital- C/D (always first)
+    - [Digital- C/D](https://movement-neuroscience-lab.github.io/dTMTApplication/Version1_0_6/)
     -	Paper- A/B
   -	International Physical Activity 
   -	Mediterranean Diet Adherence
@@ -106,35 +106,36 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 - 3xweek for 30 minutes for 12 weeks.
 - [OOD Cluster](img/techs/redcap.pdf)
 - [Safety Observer](so.md)
-- Aerobic SOP
 - [Session Leader Notes](leadernotes.md)
+- Aerobic SOP
 - Balance SOP
-- Exercise Videos
 - [Hyperate](https://hyperate4health.netlify.app/)
 
 ## 4. Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
 
 ## 5. Endpoint Session
+### Scheduling endpoint
 -	At week 10, text or ask participant during a session to schedule endpoint.
-  o	1 day before endpoint text participant to remind them of session and to remind them to        bring back equipment (HR monitor, actigraph, foam pad if balance)
--	MRI
--	Questionnaires/Cog Tasks
+  - 1 day before endpoint text participant to remind them of session and to remind them to bring back equipment (HR monitor, actigraph, foam pad if balance)
+### Questionnaires/Cog Tasks
     -	Health History and Demographics
     -	Hopkins Verbal Learning Test**
         Done at beginning and followed 20 minutes later with delayed recall/recognition
     -	3 Learning Trials and recall and recongition 
     -	Letter and Category Fluency
     -	TMT
-    -	Digital- C/D
-    -	Paper- A/B
+      -	[Digital- C/D](https://movement-neuroscience-lab.github.io/dTMTApplication/Version1_0_6/)
+      -	Paper- A/B
     -	Pittsburgh Sleep Quality Index
     -	Hopkins Verbal Learning Test
     -	Delayed Recall & Delayed Recognition *be cautious of delayed recognition scoring*
--	EEG
--	MRI
--	BESS
--	Astrand Rhyming VO2 sub max (ALWAYS LAST)
+### MRI
+  [MRI Protocol](mri.md)
+### EEG
+[EEG Protocol](eeg.md)
+### BESS
+### Astrand Rhyming VO2 sub max (ALWAYS LAST)
   -	Make sure you record hyperate and save to participant files after
 -	Sign invoice
 -	Use dpay to pay participant after session 
