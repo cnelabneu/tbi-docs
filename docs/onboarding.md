@@ -37,6 +37,8 @@ If there is an emergency during a TECHS session- Call Emma immediately.
 
 Familiarize yourself with [Safety officer protocols](so.md)
 
+Familiarize yourself with [Session Leader protocols](leadernotes.md)
+
 Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/docs/img/techs/balance.pdf)
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
