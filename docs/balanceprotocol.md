@@ -1,4 +1,4 @@
-# This is documentation for the TECHS balance protocol
+# TECHS balance protocol
 Make sure you are completing the correct version of the balance exercises the participant is scheduled to do today. Rotate through each version 3x before moving on to next version. EX: ABC,ABC,ABC (x4 for 12 weeks total). Follow list of exercises in chronological order adjusting difficulty as needed.
 ## Minute 0
 Get symptoms, BORG & HR
