@@ -1,4 +1,4 @@
-# This is documentation for the TECHS aerobic protocol
+# TECHS aerobic protocol
 Make sure you are completing the correct version of the aerobic exercises the participant is scheduled to do today. Rotate through each version 3x before moving on to next version. EX: AAA,BBB,CCC (x4 for 12 weeks total). Follow list of exercises in chronological order adjusting difficulty as needed.
 ## Minute 0
 Get symptoms, BORG & HR
