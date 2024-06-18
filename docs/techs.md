@@ -106,7 +106,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 ### Protocols
 3xweek for 30 minutes for 12 weeks.
 #### Redcap
-[Redcap](img/techs/redcap.pdf)
+[Redcap](img/techs/redcap.md)
 #### Safety Observer
 [Safety Observer](so.md)
 #### Session Leader
@@ -137,7 +137,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 -	Hopkins Verbal Learning Test
 -	Delayed Recall & Delayed Recognition *be cautious of delayed recognition scoring*
 ### MRI
-  [MRI Protocol](mri.md)
+[MRI Protocol](mri.md)
 ### EEG
 [EEG Protocol](eeg.md)
 ### BESS
