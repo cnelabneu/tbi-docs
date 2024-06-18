@@ -104,12 +104,12 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 
 ## 3. Interventions
 3xweek for 30 minutes for 12 weeks.
-  - [Redcap](img/techs/redcap.pdf)
-  - [Safety Observer](so.md)
-  - [Session Leader Notes](leadernotes.md)
-  - [Aerobic Protocol](aerobicprotocol.md)
-  - [Balance Protocol](balanceprotocol.md)
-  - [Hyperate](https://hyperate4health.netlify.app/)
+- [Redcap](img/techs/redcap.pdf)
+- [Safety Observer](so.md)
+- [Session Leader Notes](leadernotes.md)
+- [Aerobic Protocol](aerobicprotocol.md)
+- [Balance Protocol](balanceprotocol.md)
+- [Hyperate](https://hyperate4health.netlify.app/)
 
 ## 4. Actigraphs
 Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via mail start of week 5 and start of week 11. 
