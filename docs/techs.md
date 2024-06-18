@@ -8,7 +8,7 @@
 | 4. Actigraphs       | [Actigraphs](#4-actigraphs)             |
 | 5. Endpoint Events  | [Endpoint Session](#5-endpoint-session) |
 | 6. Adverse Events   | [Adverse Events](#6-adverse-events)     |
-
+| 7. Data Analysis    | [Data Analysis](#6-data-analaysis)      |
 
 ## 1. Inquiry
 ### Prior to Baseline- Inquiry/Interest etc.
@@ -104,11 +104,11 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 
 ## 3. Interventions
 - 3xweek for 30 minutes for 12 weeks.
-- [OOD Cluster](img/techs/redcap.pdf)
+- [Redcap](img/techs/redcap.pdf)
 - [Safety Observer](so.md)
 - [Session Leader Notes](leadernotes.md)
-- Aerobic SOP
-- Balance SOP
+- [Aerobic Protocol](aerobicprotocol.md)
+- [Balance Protocol](balanceprotocol.md)
 - [Hyperate](https://hyperate4health.netlify.app/)
 
 ## 4. Actigraphs
@@ -143,4 +143,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 ## 6. Adverse Events
 Fill out adverse events form on redcap.
 - Serious adverse events are reported to IRB within 48 hours. It includes death, life threatening, long hospitlization or damage, general abnormality or birth defecrt.
-- Anything else should be reported to IRB within 10 days. 
+- Anything else should be reported to IRB within 10 days.
+
+## 7. Data analysis 
+Data analysis code can be found [here](https://github.com/cnelabneu/techs). You can download the data from redcap to a csv.
