@@ -8,7 +8,7 @@
 | 4. Actigraphs       | [Actigraphs](#4-actigraphs)             |
 | 5. Endpoint Events  | [Endpoint Session](#5-endpoint-session) |
 | 6. Adverse Events   | [Adverse Events](#6-adverse-events)     |
-| 7. Data Analysis    | [Data Analysis](#7-data-analaysis)      |
+| 7. Data Analysis    | [Data Analysis](#7-data-analysis)      |
 
 ## 1. Inquiry
 ### Prior to Baseline- Inquiry/Interest etc.
@@ -145,5 +145,5 @@ Fill out adverse events form on redcap.
 - Serious adverse events are reported to IRB within 48 hours. It includes death, life threatening, long hospitlization or damage, general abnormality or birth defecrt.
 - Anything else should be reported to IRB within 10 days.
 
-## 7. Data analysis 
+## 7. Data Analysis 
 Data analysis code can be found [here](https://github.com/cnelabneu/techs). You can download the data from redcap to a csv.
