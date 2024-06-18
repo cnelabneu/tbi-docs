@@ -119,17 +119,17 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 -	At week 10, text or ask participant during a session to schedule endpoint.
   - 1 day before endpoint text participant to remind them of session and to remind them to bring back equipment (HR monitor, actigraph, foam pad if balance)
 ### Questionnaires/Cog Tasks
-    -	Health History and Demographics
-    -	Hopkins Verbal Learning Test**
-        Done at beginning and followed 20 minutes later with delayed recall/recognition
-    -	3 Learning Trials and recall and recongition 
-    -	Letter and Category Fluency
-    -	TMT
-      -	[Digital- C/D](https://movement-neuroscience-lab.github.io/dTMTApplication/Version1_0_6/)
-      -	Paper- A/B
-    -	Pittsburgh Sleep Quality Index
-    -	Hopkins Verbal Learning Test
-    -	Delayed Recall & Delayed Recognition *be cautious of delayed recognition scoring*
+-	Health History and Demographics
+-	Hopkins Verbal Learning Test**
+  Done at beginning and followed 20 minutes later with delayed recall/recognition
+-	3 Learning Trials and recall and recongition 
+-	Letter and Category Fluency
+-	TMT
+   -	[Digital- C/D](https://movement-neuroscience-lab.github.io/dTMTApplication/Version1_0_6/)
+   -	Paper- A/B
+-	Pittsburgh Sleep Quality Index
+-	Hopkins Verbal Learning Test
+-	Delayed Recall & Delayed Recognition *be cautious of delayed recognition scoring*
 ### MRI
   [MRI Protocol](mri.md)
 ### EEG
