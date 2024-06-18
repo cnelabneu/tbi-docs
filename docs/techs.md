@@ -8,7 +8,7 @@
 | 4. Actigraphs       | [Actigraphs](#4-actigraphs)             |
 | 5. Endpoint Events  | [Endpoint Session](#5-endpoint-session) |
 | 6. Adverse Events   | [Adverse Events](#6-adverse-events)     |
-| 7. Data Analysis    | [Data Analysis](#6-data-analaysis)      |
+| 7. Data Analysis    | [Data Analysis](#7-data-analaysis)      |
 
 ## 1. Inquiry
 ### Prior to Baseline- Inquiry/Interest etc.
