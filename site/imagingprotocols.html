@@ -31,11 +31,7 @@
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
           <a href="index.html" class="icon icon-home"> TBI Lab Documentation
-        </a><div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
-  </form>
-</div>
+        </a>
       </div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
@@ -96,7 +92,7 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="here-you-will-find-all-of-our-imaging-preprocessing-protocols-and-associated-github-code">Here you will find all of our imaging preprocessing protocols and associated github code.</h1>
+                <div><h1 id="here-you-will-find-all-of-our-imaging-preprocessing-protocols-and-associated-github-code">Here you will find all of our imaging preprocessing protocols and associated github code.</h1>
 <h2 id="dcm2bids">dcm2bids</h2>
 <p>We use dcm2bids to organize MRI files. See <a href="https://github.com/emmatinney/dcm2bids/tree/main">internal code here</a>. See <a href="https://unfmontreal.github.io/Dcm2Bids/3.1.1/">official documentation here</a>.</p>
 <h2 id="fmriprep">fmriprep</h2>
@@ -111,7 +107,7 @@ If you want to do fixel based analysis, see code for <a href="https://github.com
 <h1 id="structure-function-coupling">structure function coupling</h1>
 <p>If you want to use dwi and fmri data to analyze structure function coupling, you will need to preprocess with fmriprep and mrtrix. Then you will need to follow the dwi mrtrix scripts to create a dwi connectome. We use conn to get a connectome of fmri data. See <a href="https://github.com/cnelabneu/wm_connectivity_related_code">code</a> to create the dwi connectome and the python scripts to get coupling. </p>
 <h1 id="choriod-plexus-segmentation">Choriod Plexus Segmentation</h1>
-<p>Probably won't do this anymore for TBI but if you want to use Gausian mixture modeling to get ChP segmentation, See <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad190706">original paper</a> and <a href="https://github.com/EhsanTadayon/choroid-plexus-segmentation">code here</a>. See our <a href="https://github.com/emmatinney/ChP_GMM">internal code here</a>. You will need to run freesurfer or fmriprep first.</p>
+<p>Probably won't do this anymore for TBI but if you want to use Gausian mixture modeling to get ChP segmentation, See <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad190706">original paper</a> and <a href="https://github.com/EhsanTadayon/choroid-plexus-segmentation">code here</a>. See our <a href="https://github.com/emmatinney/ChP_GMM">internal code here</a>. You will need to run freesurfer or fmriprep first.</p></div>
               
             </div>
           </div><footer>
@@ -156,7 +152,6 @@ If you want to do fixel based analysis, see code for <a href="https://github.com
     <script src="js/theme_extra.js"></script>
     <script src="js/theme.js"></script>
       <script src="js/custom_login.js"></script>
-      <script src="search/main.js"></script>
     <script>
         jQuery(function () {
             SphinxRtdTheme.Navigation.enable(true);
