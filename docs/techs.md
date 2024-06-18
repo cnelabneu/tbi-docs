@@ -107,7 +107,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 - [OOD Cluster](img/techs/redcap.pdf)
 - [Safety Observer](so.md)
 - Aerobic SOP
-- Leader Notes
+- [Session Leader Notes](leadernotes.md)
 - Balance SOP
 - Exercise Videos
 - [Hyperate](https://hyperate4health.netlify.app/)
