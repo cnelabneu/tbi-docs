@@ -105,7 +105,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 ## 3. Interventions
 - 3xweek for 30 minutes for 12 weeks.
 - [OOD Cluster](img/techs/redcap.pdf)
-- [Safety Observer](img/techs/so.pdf)
+- [Safety Observer](so.md)
 - Aerobic SOP
 - Leader Notes
 - Balance SOP
