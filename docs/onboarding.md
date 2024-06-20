@@ -59,5 +59,6 @@ Download [hyperate4health](https://hyperate4health.netlify.app/)
 
 Familiarize yourself with [redcap](redcap.md)
 
-
+## Late/Absent Policies
+We have a three strike policy. If you are late or absent to study related activities 3x, you will no longer be able to participate in study related activities
  
