@@ -135,13 +135,13 @@ Scheduling Progress Tab:
 THAT IS OK!
 	●	For recording intervention## in HypeRate, use the RedCap number.
 ## Post intervention report
-Reporting will be done by replying on the participant specific teams channel under "general/posts". 
-Examples of things to report:
-- No issues, session went well.
-- Session started X mintues late because of X.
-- Session ended X minutes early because of X.
-- Hyperate4health was not recorded because of X.
-- Reached symptom threshold at minute X.
-- Participant had a complaint about X.
-- Participant mentioned something important (upcoming travels, change in job, moving, sickness, injury, allergies, change in medication, etc)
-- Heartrate monitor was acting weird. *insert debugging done to fix it*
+- Reporting will be done by replying on the participant specific teams channel under "general/posts". 
+- Examples of things to report:
+  - No issues, session went well.
+  - Session started X mintues late because of X.
+  - Session ended X minutes early because of X.
+  - Hyperate4health was not recorded because of X.
+  - Reached symptom threshold at minute X.
+  - Participant had a complaint about X.
+  - Participant mentioned something important (upcoming travels, change in job, moving, sickness, injury, allergies, change in medication, etc)
+  - Heartrate monitor was acting weird. *insert debugging done to fix it*
