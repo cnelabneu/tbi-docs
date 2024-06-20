@@ -22,6 +22,20 @@
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
 12. Join [OOD Cluster](oodcluster.md)
+13. Sign up for a [redcap account](https://www.tuftsctsi.org)
+  To request a REDCap account, please submit a service request at https://www.tuftsctsi.org/   and select "Request Services” 
+  Fill out your contact information 
+  Project Title: TECHS 
+  Check REDCap Database Account 
+  Please describe services: Just type “The exercise and concussion health study” 
+  Are you the owner/investigator? NO 
+  Put your own phone number 
+  Organization: Northeastern University Bouve 
+  Academic Rank: Assistant Professor 
+  Dept: Movement Rehabilitation Science 
+  Funding: Other 
+  Tufts CITSI contacts: no  
+  Send redcap ID to Emma when done 
 ## Communication 
 If you need to communicate with Graduate Students, please use slack. If you need to communicate with each other regarding TECHS or lab specific things, I recommend you also use slack. Communication with Dr. Morris should be an email, unless he tells you otherwise! 
 
@@ -43,7 +57,7 @@ Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
 
-Familiarize yourself with <a href="img/techs/redcap.pdf">redcap training</a>
+Familiarize yourself with [redcap](redcap.md)
 
 
  
