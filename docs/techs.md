@@ -106,7 +106,7 @@ At the end of the Baseline visit, the participant is randomized to aerobic or ba
 ### Protocols
 3xweek for 30 minutes for 12 weeks.
 #### Redcap
-[Redcap](img/techs/redcap.md)
+[Redcap](redcap.md)
 #### Safety Observer
 [Safety Observer](so.md)
 #### Session Leader
