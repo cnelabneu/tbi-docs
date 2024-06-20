@@ -7,3 +7,4 @@ Go to the [website](https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=
  - Submit 
 
 Email RC Help Desk (rchelp@northeastern.edu) asking for access to /work/cnelab 
+Need help? [Book a consulting appointment or visit office hours.](https://rc.northeastern.edu/support/)
