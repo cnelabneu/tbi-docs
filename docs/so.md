@@ -25,8 +25,7 @@ Participant and session leader will meet 15 minutes prior to session to teach ho
   -	Record information on scheduling & info document 
   -	Date of intervention
   -	Intervention version
-  -	Record on redcap under Resistance the intervention version (A1, B2, etc) as well as Session leader and SO 
-
+  -	Write post intervention report on teams 
 ## Possible events and action plans:
 
 A.	The participant is off screen for more than 1 minute
