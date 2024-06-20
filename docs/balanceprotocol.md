@@ -3,7 +3,7 @@ Make sure you are completing the correct version of the balance exercises the pa
 ## Minute 0
 Get symptoms, BORG & HR
 ## Warm up
-Should be 5 minutes long
+- should be 5 minutes long
 1. 1 minute of deep breathing
 2. Shoulder Shrug Progression (x5 each)
    - Normal

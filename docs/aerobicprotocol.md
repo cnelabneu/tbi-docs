@@ -3,19 +3,19 @@ Make sure you are completing the correct version of the aerobic exercises the pa
 ## Minute 0
 Get symptoms, BORG & HR
 ## Warm up
-Should be 5 minutes long
+- Should be 5 minutes long
 1. 1 minute of deep breathing
 2. 1 minute of Slow butt kicks
 3. 30 seconds of Shoulder shrugs
 4. 1 minute of Slow side step taps - 1 min
-5. 30 seconds of Arm Streches overhead
+5. 30 seconds of Arm Stretches overhead
 6. 1 minute of slow squats.
 ## Minute 5
 Get symptoms, BORG & HR
 ## Intervention
 Each version should be 20 minutes. get symptoms every 5 minutes throughout the intervention
 ## Version A
-Each exercise is ~1 minute each. Increase inensity as needed. repeat 3x 
+- Each exercise is ~1 minute each. Increase inensity as needed. repeat 3x 
 1. Standing twist with arm push towards wall
 2. Half Jacks
 3. Ball Slams wihout a ball
