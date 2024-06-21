@@ -23,18 +23,17 @@ Make sure the participant has their HR coming back down and be able to see their
 If symptoms increase +3 above baseline (minute 0 of the session) 1-minute break and reduce to 60% ST. If symptoms increase again, 1 min break and reduce to 40% (~100-110 bpm). If symptoms still increase, stop the session.
 
 ## Encouragement  
-Some positive encouragement statements. Say at least 1 per exercise  
-  Great work, *insert name*! 
-  keep up the intensity *insert name*! (aerobic only) 
-  You are working so hard *insert name*. 
-  Heart rate is looking strong! (aerobic only) 
-  You are doing excellent 
-  Great form! 
-  Great job with those *insert exercise* 
-  Great job engaging your core (more geared for balance) 
-  Refer to them by name with some statements 
-  Looking strong! (aerobic only) 
-  This is making you stronger! (especially if you see them struggling) 
-  Finish these last *# of seconds* strong! You’ve got this 
+Some positive encouragement statements, referring to them by name. Say at least 1 per exercise  
+ - Great work, *insert name*!
+ - Keep up the intensity *insert name*! (aerobic only)
+ - Looking strong! (aerobic only) 
+ - Heart rate is looking strong! (aerobic only)
+ - You are doing excellent!
+ - Great form!
+ - Great job with those *insert exercise*!
+ - Great job engaging your core! (more geared for balance)
+ - You are working so hard, *insert name*.
+ - This is making you stronger! (especially if you see them struggling)
+ - Finish these last *# of seconds* strong! You’ve got this! 
 
  
