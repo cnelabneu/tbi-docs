@@ -2,7 +2,7 @@
 Below is a list of possible adverse events during the virtual intervention sessions and the safety plan in the event each event occurs.
 If you dont have hyperate on the computer, ask the session leader if they have it. If they dont, message Emma with the ID. 
 HypeRate files should be named: hr_sub_ xx_dx (hr_sub_ 08_d5 would be techs 08 intervention 5)
-The role of the safety observer is to monitor the safety of each participant and respond to falls, signs of distress, or other safety concernhs. Prior to the beginning of the intervention, the safety observer must close all windows on their computer to reduce distractions. The only windows that should be open during virtual intervention sessions care Zoom and the emergency contact list. Listed below are the appropriate responses to some anticipated situations. 
+The role of the safety observer is to monitor the safety of each participant and respond to falls, signs of distress, or other safety concerns. Prior to the beginning of the intervention, the safety observer must close all windows on their computer to reduce distractions. The only windows that should be open during virtual intervention sessions care Zoom and the emergency contact list. Listed below are the appropriate responses to some anticipated situations. 
 
 ## Before first session: 
 Participant and session leader will meet 15 minutes prior to session to teach how to set up the zoom session and share screen.
@@ -27,7 +27,7 @@ Participant and session leader will meet 15 minutes prior to session to teach ho
   -	Intervention version
   -	Write post intervention report on teams 
 
-## Post intervention report
+## Post intervention report 
 - Reporting will be done by replying on the participant specific teams channel under "general/posts". 
 - Examples of things to report: 
   - No issues, session went well. 
