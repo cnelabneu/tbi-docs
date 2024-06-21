@@ -16,10 +16,14 @@
 NOTE: Participants do NOT need to share their screen. You can see their HR live using the app or on the website using the participants Subject ID
 - ex: https://app.hyperate.io/219E
 
+![hyperate_home](img/techs/hyperate_home.png)
+
 ## REDCap Protocols
 ### Start of the Session:
 **Date of Intervention (MM/DD/YYYY)** = Date that intervention occurs on.
 - Example: If the intervention occurred on February 3nd, 2024, enter 02/03/2024
+
+![redcap_start](img/techs/redcap_start.jpg)
   
 **24-Hour Start Time of HR Monitoring (HH:MM)** = Time of day when intervention starts. Do NOT enter AM or PM; use 24-hour time.
 - Example: if the intervention started at 3:30, enter: 15:30
@@ -44,13 +48,17 @@ These occur at:
 	- Baseline at 0:00 → this score serves as a baseline for the participants symptom status prior to the intervention
 	- Subsequent check-ins determine whether the intensity of the intervention needs to be scaled back. This determination is made if the participant reaches their symptom threshold (i.e. baseline CIF score + 3 = symptom threshold)
 - If a participant reaches their symptom threshold, ALERT the intervention leader so intensity reduction protocol can be initiated
+
+![redcap_symptoms](img/techs/redcap_symptoms.jpg.png)
  
 **Symptom Substitute**
 
 If a participant reports a symptom that is not a listed option, choose a symptom on the RedCap list that best resembles the reported symptom and that the participant did not report experiencing. Then record the severity of the reported symptom using the bubbles, and click the comment tab to record the intended symptom.
 
 - *Example*: Difficulty Concentrating is not a listed symptom in the Minute-5 Check-in Symptom List. If the participant reports Difficulty Concentrating with a severity of 2, then click an option that was reported as severity 0, such as Feeling in a Fog. Report severity 2 in the Feeling in a Fog row and note the symptom as Difficulty Concentrating in the comment section
- 
+
+![redcap_symptoms](img/techs/redcap_symptoms.jpg)
+![redcap_comment](img/techs/redcap_comment.png)
  
 ### End of the Session:
 **Cessation Time** = Amount of time (minutes) the intervention ran for.
@@ -107,10 +115,19 @@ GOAL of interventions = get to all the programming possible within 30 minutes
 NOTE: Cessation Symptom Score is the SAME as 30:00 CIF symptom checklist score if the programming was completed and the session ended at 30 minutes.
 
 - *Example A*: If the participant reported 0 symptoms when the intervention ended, note 0.
+
+![redcap_end1](img/techs/redcap_end1.jpg)
  
 - *Example B*: If the participant reported 2 symptoms when the intervention ended, note 2.
+
+![redcap_end2](img/techs/redcap_end2.jpg)
  
 - *Example C*: If the participant reports a symptom score sum of 7 at 15:00, but reports a score of 6 when the intervention ends at minute 17, then cessation symptom score: 6 Example D: If the intervention ended early, for example at 25:00, record the SAME CIF Symptom Checklist Score for the Cessation Symptom Score.
+
+- *Example D*: If the intervention ended early, for example at 25:00, record the SAME CIF
+Symptom Checklist Score for the Cessation Symptom Score.
+
+![redcap_endfull](img/techs/redcap_endfull.png)
  
 **Time to Symptom Threshold** = the intervention time elapsed when the participant reports experiencing symptoms totaling 3 points higher than their baseline symptom score (= Symptom Threshold).
 
@@ -131,7 +148,7 @@ NOTE: Cessation Symptom Score is the SAME as 30:00 CIF symptom checklist score i
 Version of intervention (A/B/C)
 
 *Example*: If the intervention is listed as Version A in the Scheduling_info.docx
-- Resistance: A
+- record: Resistance: A
 
 **SKIPPED SESSIONS**:
 
@@ -142,14 +159,21 @@ If a participant does NOT complete 3 interventions within a week…
 	- In form #28 in RedCap
 
 **RedCap** → DO NOT leave blank forms. Complete the NEXT available form.
-	CORRECT:	WRONG:
- 
+
+|CORRECT: 					 | WRONG:					|
+| ---------------------------------------------- | -------------------------------------------- |
+|![redcap_correct](img/techs/redcap_correct.jpg) | ![redcap_wrong](img/techs/redcap_wrong.jpg)  |
+
 **Scheduling_info.docx** → Mark interventions not completed within the week as missed
 
 Intervention Tab:
- 
+
+![scheduling_version](img/techs/scheduling_version.jpg)
+
 Scheduling Progress Tab:
- 
+
+![scheduling_date](img/techs/scheduling_date.png)
+
 This will result in a mismatch between the intervention# on RedCap (#28) and the Scheduling_info.docx (#30) on OneDrive... THAT IS OK!
 - For recording intervention ## in HypeRate, use the RedCap number.
  
