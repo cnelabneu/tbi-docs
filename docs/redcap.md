@@ -178,7 +178,7 @@ This will result in a mismatch between the intervention# on RedCap (#28) and the
 - For recording intervention ## in HypeRate, use the RedCap number.
  
 ## Post intervention report
-- Reporting will be done by replying on the participant specific teams channel under "general/posts". 
+- Reporting will be done by the SO by replying on the participant specific teams channel under "general/posts". 
 - Examples of things to report:
   - No issues, session went well.
   - Session started X mintues late because of X.
