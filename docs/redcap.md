@@ -131,7 +131,7 @@ NOTE: Cessation Symptom Score is the SAME as 30:00 CIF symptom checklist score i
 Version of intervention (A/B/C)
 
 *Example*: If the intervention is listed as Version A in the Scheduling_info.docx
-- record: Resistance: A
+- Resistance: A
 
 **SKIPPED SESSIONS**:
 
