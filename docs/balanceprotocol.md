@@ -2,8 +2,7 @@
 Make sure you are completing the correct version of the balance exercises the participant is scheduled to do today. Rotate through each version 3x before moving on to next version. EX: ABC,ABC,ABC (x4 for 12 weeks total). Follow list of exercises in chronological order adjusting difficulty as needed.
 ## Minute 0
 Get symptoms, BORG & HR
-## Warm up
-- should be 5 minutes long
+## Warm up (5 minutes long)
 1. 1 minute of deep breathing
 2. Shoulder Shrug Progression (x5 each)
    - Normal
@@ -23,10 +22,8 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
     -  10 foam pad each arm
     -  10 foam pad bilaterial
 2. Seated Wood Choppers
-    -  10 each arm
-    -  10 bilaterial
-    -  10 foam pad each arm
-    -  10 foam pad bilaterial
+    -  10 normal
+    -  10 foam pad
 3. Standing reach outside of base of support
     -  10 each arm
     -  10 bilaterial
@@ -72,7 +69,7 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
 3. Calf Raises (3 x 30 seconds)
     -  Normal
     -  Foam Pad
-4. Drinking Birds (2 x 10 reps each leg)
+4. Drinking Birds (1 x both legs, 2 x 10 reps each leg)
     -  Normal
     -  foam pad
 5. Tandem Foot Replacement (4 x 30 seconds)

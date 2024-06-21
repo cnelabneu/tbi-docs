@@ -2,8 +2,7 @@
 Make sure you are completing the correct version of the aerobic exercises the participant is scheduled to do today. Rotate through each version 3x before moving on to next version. EX: AAA,BBB,CCC (x4 for 12 weeks total). Follow list of exercises in chronological order adjusting difficulty as needed.
 ## Minute 0
 Get symptoms, BORG & HR
-## Warm up
-- Should be 5 minutes long
+## Warm up (5 minutes)
 1. 1 minute of deep breathing
 2. 1 minute of Slow butt kicks
 3. 30 seconds of Shoulder shrugs
