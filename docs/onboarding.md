@@ -53,7 +53,7 @@ Familiarize yourself with [Safety officer protocols](so.md)
 
 Familiarize yourself with [Session Leader protocols](leadernotes.md)
 
-Familiarize yourself with [aerobic](/docs/img/techs/aerobic.pdf) and [balance](/docs/img/techs/balance.pdf)
+Familiarize yourself with [aerobic](aerobic.md) and [balance](balance.md)
 
 Download [hyperate4health](https://hyperate4health.netlify.app/)  
 
