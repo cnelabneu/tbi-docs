@@ -39,7 +39,7 @@ Each version should be 20 minutes. get symptoms every 5 minutes throughout the i
 4. V-steps
 5. Steps outs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lc_85b7euno?si=DE_3HHlQWYtyWXCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsTehd_6VY4?si=F0e6TsHuVdI8RbOJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Minute 25
 Get symptoms, BORG & HR
