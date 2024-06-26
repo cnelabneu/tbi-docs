@@ -96,7 +96,7 @@ Pre-Screening Call- can be completed by trained uga
 [BESS Protocol](bess.md)
 
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
-[Astrand Rhyming VO2 sub max](/docs/img/techs/ar.pdf)
+[Astrand Rhyming VO2 sub max](img/techs/ar.pdf)
 Make sure you record hyperate and save to participant files after
 ### End of Baseline
 At end of the session make sure participant goes home with HR monitor and actigraph (foam pad if balance) and briefing form
@@ -144,7 +144,7 @@ Participant gets actigraph at baseline, at 6 weeks, and at 12 weeks. Send via ma
 ### BESS
 [BESS Protocol](bess.md)
 ### Astrand Rhyming VO2 sub max (ALWAYS LAST)
-[Astrand Rhyming VO2 sub max](/docs/img/techs/ar.pdf)
+[Astrand Rhyming VO2 sub max](img/techs/ar.pdf)
 - Make sure you record hyperate and save to participant files after
 -	Sign invoice
 -	Use dpay to pay participant after session 
