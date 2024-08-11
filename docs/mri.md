@@ -24,7 +24,9 @@
 
       k) blanket
 
-2. Procedures
+
+
+3. Procedures
    
          a) Place the wedge and the head pillow the examination table.
      
