@@ -12,6 +12,7 @@ This is going to be a long document so it'll be split up into chapters to make j
 | 3. Running The Program      | [Running The Program](#3-running-the-program)           |
 | 4. Database Management      | [Database Management](#4-database-management)           |
 | 5. Misc Info                | [Misc Info](#5-misc-info)                               |
+| 6. Protocol                 | [Protocol](#6-protocol)
 
 ## 1. Installation Guides 
 
@@ -265,3 +266,199 @@ await processPoints()
 ## 5. Misc Info
 
 I can't actually think of anything but thanks for reading good luck out there soldiers o7. I'm always here to consult with so have no fear.
+
+## 6. Protocol
+
+### Prior to Baseline- Inquiry/Interest etc. 
+Sources 
+- RedCap form for interest 
+	- Links to it from the QR code on flyer or Facebook/Instagram ads
+ 	- After reaching out via email to schedule call, label email under Roybal to notate it is present in RedCap 
+- Calls/Emails
+  	- Directed to either Google Voice number or lab email 
+	- Add to RedCap regardless of eligibility 
+	- Email is labeled under Roybal once it is added to RedCap and PSL 
+- The RedCap form should eliminate inclusion/exclusion on age and length of time since brain injury 
+	- If ineligible, send an email using the template to tell them we appreciate their inquiry, but they are not eligible at this time.  
+
+Redcap: 
+- Entering New Participant 
+	- Participant should begin with inquiry (whether on the phone, email, or online survey (where it’s completed automatically)) in Arm 1 
+	- Add participant to prescreening log in OneDrive and complete prescreening under Arm 1 in RedCap 
+
+Pre-Screening Call- **Will Not Be Completed by UGAs**
+- Attempt to confirm a scheduled call over email before calling, if possible, if not simply call during appropriate business hours 
+- Use RedCap form for Prescreening and go through the criteria as questions 
+	- If unsure, leave a comment or note on the redcap form 
+	- If they flag one of the immediate inclusion/exclusion factors you do not have to continue the call (walking aid, not cleared for exercise, or location (if they can travel to Boston for the baseline without any financial help from us but live elsewhere, that can work)) 
+		- If unsure, finish the call and consult Lexie or Goretti afterward. 
+- Complete the **MRI Subject Screening Form** to ensure they can safely have an MRI (Either done on the computer or a hard copy can be printed and scanned in) 
+	- This needs to be de-identified and provided to Fred.  
+- Fill out the **hard copy OSU form**.  
+	- **All** of these are de-identified and sent to Lexie MD to confirm eligibility.  
+		- **If there is any uncertainty on diagnosis, wait to schedule until Lexie MD verified**
+
+Potential “Holding Patterns” That Can Occur In Between The PS Call & Scheduling Baseline 
+- Awaiting Lexie MD confirmation on diagnosis 
+- Confirm MRI safety with Fred/Valur or participant 
+- Participant needs to confirm exercise safety with PCP or cardiologist 
+- Participant needs to arrange travel (emphasizing we do not cover this, but they do voluntarily) 
+
+Scheduling Baseline Session 
+- Should be done with or by Goretti or Lexie 
+	- Scheduled primarily due to MRI availability (accessed through Lexie or Goretti outlook calendar) as that’s the most restrictive 
+	- Secondly confirm Goretti/Lexie, Mark, and one of the undergrads availabilities 
+- If necessary to be in 2 sessions for any reason, try to have as close together as possible 
+- Remind of session 24-48 hours prior 
+
+Preparing for Baseline 
+- Ensure proper rooms are scheduled for Baseline 
+	- Neuropysch Room for cognitive/questionnaires 
+		- Have this reserved for after EEG as well for the tech set-up 
+	- EEG in EEG Room (Preferably 672H) 
+- Print documents in Print for Baseline 
+	- Informed Consent (Print 2, 1 for our copy and 1 for participant to take home) 
+	- MMSE Handout 
+	- W9 
+	- Roybal Password Doc 
+	- TMT A/B paper copy 
+	- Letter/Cat Handout
+ 	- HVLT Handout 
+- Charge Surface Tablet 
+- Have likert scale handout ready/in room 
+
+### Baseline Session 
+- Consent & W9 
+	- Go through consent form and provide them a copy with the person administering the consent signing (the important thing is to have the copy we keep having both signatures and they one they take home having our signature) 
+	- Have them complete the W9 at this time as well 
+- MRI 
+	- MRIprotocol.docx 
+- Questionnaires/Cog Tasks 
+	- Health History and Demographics 
+	- MMSE 
+	- Letter and Category Fluency 
+		- FAS 
+	- TMT 
+		- Digital- C/D 
+		- Paper- A/B 
+	- International Physical Activity  
+		- Full form  
+	- Hopkins Verbal Learning Test** 
+		- Form 1 
+		- Done at the beginning and followed 20 minutes later with delayed recall/recognition 
+		- 3 Learning Trials & Recall 
+	- Promis  
+	- Mediterranean Diet Adherence 
+	- Pittsburgh Sleep Quality Index 
+	- BREQ-3 Physical Exercise Motivation  
+	- Physical Exercise Self Efficacy 
+	- Hopkins Verbal Learning Test 
+		- Delayed Recall & Delayed Recognition 
+- EEG 
+- Finish Questionnaires 
+	- GAD-7  
+	- PHQ-9 
+		- Sensitivity with subject matter! 
+- Fit-Bit Set-Up 
+	- Fitbit setup procedures.docx 
+- Platform Set-Up 
+	- After FitBit is ready, go to platform 
+	- Go through steps at the top of the admin page 
+		- Before this make sure you are LOGGED OUT of any FitBit account, even if for the current participant 
+		- This will connect FitBit to the platform and create a new user 
+		- This is done successfully when the screen is white with “Action Executed” text at the top 
+	- MongoDB Info 
+		- MongoDB Info & Troubleshooting.docx 
+	- Access MongoDB to confirm link and add user login	 
+		- Database-Data Collections-User 
+		- Delete last row “user: #” NOT “number: #”  
+		- Add new row underneath password “User: USERID” (The string that is under user_ID under the same box for the participant, usually starts with B) 
+	- Confirm login to platform is successful 
+	- Add plans (or planned call for control group) for the upcoming week 
+	- Return to admin page to add reminders to personal gmail/phone 
+		- Add in same box below add plan and ensure to put the SAME participant ID (this is the number) 
+	- IF shows up in participants but not user:  
+		- Go into user and add new document:  
+			- {"_id":{"$oid":"66169bb95af35a66285e538e"},"user_id":"insert user id","number":{"$numberInt":"insert number "},"group":"experiment or control","pass":"cnelab","user":"user id"} 
+			- Copy and paste above code or duplicate the existing template in database (number is 0) 
+
+Redcap 
+- At the end of the Baseline visit, the participant is randomized 
+- Create a new record is created in the appropriate arm (control or intervention) 
+- After creating, click "Choose action for record" and select rename record 
+- Rename to the record ID number to their Participant ID (this is different than the prescreen ID and will be determined based on Participant Tracker spreadsheet) in their intervention arm 
+
+### Weekly Calls 
+Weekly Call Script.docx 
+- Prior to call, check that CSV has full data/the FitBit is syncing  
+	- For intervention, check that it matches the platform 
+- Basecamp 
+	- Card Table for each participant 
+	- Card itself has the participant’s login info and ID 
+	- After completed, check off call and add due date for the next week’s call 
+		- Add yourself as the person and Goretti or Lexie so we are notified!! 
+	- If the call is rescheduled at any point, please update the basecamp due date so we know! 
+- Rescheduling 
+	- If the participant doesn’t answer (usually call at the time and then again 15 minutes later) please send them a text message or voicemail stating that you tried to call and to please respond with a good time to reschedule the call too.  
+- Participant Log- (Not done by UGAs, currently by Goretti) 
+	- Date call is scheduled for is added and then highlighted green once completed 
+
+ 
+Redcap Phone Call Tracker- Only if Adverse Event is noted, follow script procedure 
+- Create new event for each check-in call on redcap and enter date 
+- Fill out adverse event form as needed (follow script instructions) 
+
+ 
+### Endpoint Call 
+Prior To Call:  
+- Schedule 
+	- Scheduling happens after week 11 call (scheduling week 12 of walks or reading tip #12) 
+	- Lexie will contact participant to schedule 
+- Intervention Group 
+	- Prep Microincentive  Total 
+		- Download CSV from platform
+  		- Confirm data overall against FitBit data (should be done periodically prior anyways) 
+- Print Documents  
+	- Letter/Category Fluency CFL Form 
+	- HVLT Form 2 
+	- Payment Invoice 
+- Have Likert scale PowerPoint up to share screen during call 
+- Have W9 to confirm mailing address 
+
+On Call: 
+- Questionnaires/Cog Tasks 
+	- Letter and Category Fluency 
+		- CFL  
+	- International Physical Activity  
+		- Full form  
+	- Hopkins Verbal Learning Test** 
+		- Form 2! 
+		- Done at beginning and followed 20 minutes later with delayed recall/recognition 
+		- 3 Learning Trials & Recall 
+	- Promis  
+	- Mediterranean Diet Adherence 
+	- Pittsburgh Sleep Quality Index 
+	- BREQ-3 Physical Exercise Motivation  
+	- Physical Exercise Self Efficacy 
+	- Hopkins Verbal Learning Test 
+		- Delayed Recall & Delayed Recognition 
+	- GAD-7  
+	- PHQ-9 
+		- Sensitivity with subject matter! 
+- Go over shipping & Payment instructions 
+	- Confirm shipping address (from prescreen and/or W9) 
+	- Inform them they will receive a package with a padded envelope to put the FitBit back into to mail back. The invoice for payment will also be in the envelope for them to sign and return in the same envelope as the FitBit.  
+		- If they don’t have the FitBit box or do not know where it is, that is okay just ensure they send the actual FitBit device and the charger (and the extra band if they have it but if they don’t have the box, they likely won’t have this) 
+
+After Call:  
+- Update payment total with endpoint time (usually ~1 hr) and fill out invoice with total payment
+- Send link for post-participation survey 
+
+	- Send web address and survey access code to participant via email 
+
+- Send Envelope 
+	- Padded Envelope Inside to Return FitBit 
+		- Already pre-addressed to send back to ISEC with stamp 
+	- Invoice to Sign and Send back w/FitBit 
+- Update Participant Tracker 
+	- Update Status to completed 
