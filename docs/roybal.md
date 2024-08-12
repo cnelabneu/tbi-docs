@@ -385,7 +385,7 @@ Preparing for Baseline
 Redcap 
 - At the end of the Baseline visit, the participant is randomized 
 - Create a new record is created in the appropriate arm (control or intervention) 
-- After creating, click "Choose action for record" and select rename record 
+- After creating, click ![redcaprecord](img/roybal/redcaprecord.png) and select rename record 
 - Rename to the record ID number to their Participant ID (this is different than the prescreen ID and will be determined based on Participant Tracker spreadsheet) in their intervention arm 
 
 ### Weekly Calls 
@@ -405,7 +405,8 @@ Weekly Call Script.docx
 
  
 Redcap Phone Call Tracker- Only if Adverse Event is noted, follow script procedure 
-- Create new event for each check-in call on redcap and enter date 
+- Create new event for each check-in call on redcap and enter date
+![checkincall](img/roybal/checkincall.png)
 - Fill out adverse event form as needed (follow script instructions) 
 
  
@@ -453,9 +454,10 @@ On Call:
 After Call:  
 - Update payment total with endpoint time (usually ~1 hr) and fill out invoice with total payment
 - Send link for post-participation survey 
-
+![aftercall1](img/roybal/aftercall1.png)
+![aftercall2](img/roybal/aftercall2.png)
+![aftercall3](img/roybal/aftercall3.png)
 	- Send web address and survey access code to participant via email 
-
 - Send Envelope 
 	- Padded Envelope Inside to Return FitBit 
 		- Already pre-addressed to send back to ISEC with stamp 
