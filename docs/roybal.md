@@ -13,7 +13,7 @@ This is going to be a long document so it'll be split up into chapters to make j
 | 4. Database Management      | [Database Management](#4-database-management)           |
 | 5. Misc Info                | [Misc Info](#5-misc-info)                               |
 | 6. Protocol                 | [Protocol](#6-protocol)
-| 7. Fitbit and Platform Set Up | [Fitbit and Platform Set Up](https://github.com/cnelabneu/tbi-docs/edit/main/docs/roybal.md#7-roybal-fitbit-and-platform-set-up) |
+| 7. Fitbit and Platform Set Up | |
 
 ## 1. Installation Guides 
 
