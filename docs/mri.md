@@ -36,14 +36,16 @@
      
          d) Protect the squeeze ball with a glove.
      
-         e) Prepare the earplugs (leave them on the examination table and             then it’s easy to remember)
+         e) Prepare the earplugs (leave them on the examination table and
+         then it’s easy to remember)
      
-         f) Protect the headphones with the covers and place them on the             examination table too.
+         f) Protect the headphones with the covers and place them on the
+         examination table too.
    
 
-4. Sign MRI safety screening form (10 min)
-5. Participant gets change, we provide them a gown.
-6. Fred runs the last safety step, revise no metals, etc.
+5. Sign MRI safety screening form (10 min)
+6. Participant gets change, we provide them a gown.
+7. Fred runs the last safety step, revise no metals, etc.
 
 ## MRI Protocal
 
