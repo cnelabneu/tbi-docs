@@ -13,6 +13,7 @@ This is going to be a long document so it'll be split up into chapters to make j
 | 4. Database Management      | [Database Management](#4-database-management)           |
 | 5. Misc Info                | [Misc Info](#5-misc-info)                               |
 | 6. Protocol                 | [Protocol](#6-protocol)
+| 7. Fitbit and Platform Set Up | [Fitbit and Platform Set Up](https://github.com/cnelabneu/tbi-docs/edit/main/docs/roybal.md#7-roybal-fitbit-and-platform-set-up) |
 
 ## 1. Installation Guides 
 
@@ -464,3 +465,119 @@ After Call:
 	- Invoice to Sign and Send back w/FitBit 
 - Update Participant Tracker 
 	- Update Status to completed 
+
+## 7. Roybal Fitbit and Platform Set Up
+
+### Set up Fitbit and Roybal Platform Procedures
+
+
+1. Ask participants to download Fitbit App on their phones.
+
+
+2. Create new Gmail account on participant’s phone. tbiparticipant1@gmail.com / cneparticipant1@gmail.com
+(add the information in their info document, and here: https://northeastern.sharepoint.com/:x:/r/sites/CNElab/_layouts/15/Doc.aspx?sourcedoc=%7B281F8B41-ACE0-4BC7-BC28-55659B4775CC%7D&file=Roybal%20Participant%20Tracker%20%26%20Call%20Log.xlsx&action=default&mobileredirect=true)
+
+3. Fitbit (if has been used then clear Fitbit)
+
+
+	a. Log in with Gmail participant account (https://accounts.fitbit.com/login).
+
+
+	b. Set up profile info.
+
+
+	c. Fitbit is ready to be used.
+
+
+	d. Research question: "No, thanks"
+
+
+	e. Turn off all the notifications.
+
+
+	f. You are all set!
+
+
+	g. Remind the participants to keep their Bluetooth on during the whole study.
+
+
+	h. Show them how to activate Fitbit screen touching the sides with both fingers, or tapping on the screen then to click through it. 
+
+
+	i. If you swipe down you can also revise and change other things, but it’s not necessary.  
+
+
+	j. You do not have to sleep with it, just if you want to take some sleeping data. Just use it during your active hours, when you take walks, etc. Take it off during showers just in case. 
+
+
+	k. Remind them to wear it on the non-dominant wrist. 
+
+
+	l. Show them how to use the app, walk them through the different windows.
+
+
+4. Activate Bluetooth on participant’s phone. 
+
+5. Open Fitbit App on their phone 
+
+	a. Sign in with Google.
+	
+	b. Add another account: cneparticipant5@gmail.com / password: computationalneuroscience5 and “Continue as a Participant 5.”
+
+	c. Don’t allow Fitbit to send you notifications.
+
+	d. Once connected to Fitbit is time to connect to a device. Add device > Inspire 3 > Agree to connect Inspire 3 to the Fitbit App > Allow Fitbit to use Bluetooth for new connections in Settings.
+
+	e. To synch the device with the Fitbit app you will get a 4-digit code on your device’s display. Add the 4-digit code and accept.
+
+	f. Skip the rest of notifications and permissions that the app asks and skip the premium membership suggestion. 
+
+7. Create new participant profile in the Roybal app. 
+
+8. (https://roybal.vercel.app/admin)
+9. 
+	a. Add new participant (either intervention or control profile!)
+
+	b. Log in into Fitbit (continue with Google account)
+
+	c. Authorization screen: click Allow All
+
+	d. "Experimental Action Executed"
+
+	e. Revise if the participant has been added in MondoDB and our platform and add the user name in the excel (https://northeastern.sharepoint.com/:x:/r/sites/CNElab/_layouts/15/Doc.aspx?sourcedoc=%7B281F8B41-ACE0-4BC7-BC28-55659B4775CC%7D&file=Roybal%20Participant%20Tracker%20%26%20Call%20Log.xlsx&action=default&mobileredirect=true).  https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F6487b3420908a04e759c5fe5&nextHash=%23overview&signedOut=true
+	
+	 f. Then “Or add a new email” and add participant5@gmail.com and number to the “Participant Number"
+		
+	 g. Check if the account has been correctly synched to the Atlas and code under “users.”
+
+11. Provide a note to the participant with their: 
+	
+ 	a. Email address account: tbiparticipant5@gmail.com
+
+	b. Password: computationalneuroscience5
+
+	c. Their real ID: BZ559v (provided by the website of users and code)
+
+	d. Password: cnelab
+
+13. Open Roybal platform.
+	
+ 	a. Add personal phone number and/or email to get the reminders.
+
+	b. Show them the platform, how the health tips/activities show up and how to access it.
+
+	c. Plan the next week walk
+
+	d. Repeat the process twice with Roybal email address to add the dates into Roybal’s calendar app and repeat scheduling with their personal emails to get the notifications in their devices.
+
+	e. Walk the participant through the platform to explain to them how to check and revise calendar, etc. Also show them how to charge the Fitbit.
+
+	f. Remember to sync your Fitbit with your phone app daily please!
+
+
+
+
+
+
+
+
