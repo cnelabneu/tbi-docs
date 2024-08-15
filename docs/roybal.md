@@ -479,11 +479,13 @@ After Call:
 
 3. Fitbit (if has been used then clear Fitbit)
 
-
 	a. Log in with Gmail participant account (https://accounts.fitbit.com/login).
-
+![image](https://github.com/user-attachments/assets/291e8128-2c13-4732-b54a-509e59c725a1)
+<img width="195" alt="image" src="https://github.com/user-attachments/assets/88b20646-a548-4522-859c-3cfc10f6f7a5">
+<img width="156" alt="image" src="https://github.com/user-attachments/assets/22c945d8-eda5-4324-9fcb-2b89e2512a35">
 
 	b. Set up profile info.
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/8166e8e2-149f-4b00-b4f3-7128364e971d">
 
 
 	c. Fitbit is ready to be used.
@@ -493,6 +495,7 @@ After Call:
 
 
 	e. Turn off all the notifications.
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/0d3250bf-7768-44f0-9e6a-bde76337327b">
 
 
 	f. You are all set!
@@ -521,33 +524,53 @@ After Call:
 5. Open Fitbit App on their phone 
 
 	a. Sign in with Google.
-	
+	<img width="130" alt="image" src="https://github.com/user-attachments/assets/6fb6c234-f3eb-4dd4-9999-6757ec508407">
+
 	b. Add another account: cneparticipant5@gmail.com / password: computationalneuroscience5 and “Continue as a Participant 5.”
+<img width="130" alt="image" src="https://github.com/user-attachments/assets/b49752d7-340b-453f-83fd-ecb34139713d">
+<img width="143" alt="image" src="https://github.com/user-attachments/assets/da8e714d-1348-4d81-abf8-1b0e6d558011">
+<img width="132" alt="image" src="https://github.com/user-attachments/assets/882aa5e1-b0d4-4f9a-9b5c-c0c41a331a16">
+<img width="139" alt="image" src="https://github.com/user-attachments/assets/2cf648e2-7c5a-4e01-9b83-47d43278752d">
+<img width="134" alt="image" src="https://github.com/user-attachments/assets/b2d0d760-2465-4abd-bf6e-702a144e381d">
 
 	c. Don’t allow Fitbit to send you notifications.
+<img width="145" alt="image" src="https://github.com/user-attachments/assets/233c3f49-7a2f-498c-8ebc-766ae27ac50b">
+<img width="144" alt="image" src="https://github.com/user-attachments/assets/a2890714-e4a4-4a18-9d28-94b1be84b4bf">
 
 	d. Once connected to Fitbit is time to connect to a device. Add device > Inspire 3 > Agree to connect Inspire 3 to the Fitbit App > Allow Fitbit to use Bluetooth for new connections in Settings.
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/1b858b3e-bc2a-42df-b07f-86d9bcd27dc6">
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/8286436e-606f-49d4-9351-f3a1e68989b6">
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/5b9dc86b-cc84-4cee-b418-75d0042c3cbb">
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/90b2351f-5702-46d8-95be-29df16a49a9d">
 
 	e. To synch the device with the Fitbit app you will get a 4-digit code on your device’s display. Add the 4-digit code and accept.
+<img width="144" alt="image" src="https://github.com/user-attachments/assets/e56c0839-002e-4191-a887-8a3d114683b0">
 
 	f. Skip the rest of notifications and permissions that the app asks and skip the premium membership suggestion. 
+<img width="141" alt="image" src="https://github.com/user-attachments/assets/436055d7-663a-4ad6-a5ec-c08e0c0b103d">
+<img width="141" alt="image" src="https://github.com/user-attachments/assets/881e0f78-baaf-4035-a191-d7683621df7b">
 
 7. Create new participant profile in the Roybal app. 
-
 8. (https://roybal.vercel.app/admin)
-9. 
 	a. Add new participant (either intervention or control profile!)
+![image](https://github.com/user-attachments/assets/36d7200d-30ff-4cb4-98cf-84a795a3c1fd)
 
 	b. Log in into Fitbit (continue with Google account)
 
 	c. Authorization screen: click Allow All
+<img width="198" alt="image" src="https://github.com/user-attachments/assets/3d79602d-7acd-488e-ad35-2163a4494a12">
 
 	d. "Experimental Action Executed"
+<img width="214" alt="image" src="https://github.com/user-attachments/assets/88367c0f-8d72-468a-911e-f94f82df1ae1">
 
 	e. Revise if the participant has been added in MondoDB and our platform and add the user name in the excel (https://northeastern.sharepoint.com/:x:/r/sites/CNElab/_layouts/15/Doc.aspx?sourcedoc=%7B281F8B41-ACE0-4BC7-BC28-55659B4775CC%7D&file=Roybal%20Participant%20Tracker%20%26%20Call%20Log.xlsx&action=default&mobileredirect=true).  https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F6487b3420908a04e759c5fe5&nextHash=%23overview&signedOut=true
-	
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/4d912913-fc96-4f3c-aba4-e92bc4e55f92">
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/528d3d9c-ab5d-4929-b201-a5c50c8624f5">
+	<img width="450" alt="image" src="https://github.com/user-attachments/assets/a5e45205-816a-4078-b2df-656566981cec">
+
 	 f. Then “Or add a new email” and add participant5@gmail.com and number to the “Participant Number"
-		
+	<img width="130" alt="image" src="https://github.com/user-attachments/assets/63acb647-2098-4b57-a388-7eb0197052ce">
+	
 	 g. Check if the account has been correctly synched to the Atlas and code under “users.”
 
 11. Provide a note to the participant with their: 
@@ -567,6 +590,7 @@ After Call:
 	b. Show them the platform, how the health tips/activities show up and how to access it.
 
 	c. Plan the next week walk
+![image](https://github.com/user-attachments/assets/aef26572-e5a2-453c-a350-39b72a5dbbf4)
 
 	d. Repeat the process twice with Roybal email address to add the dates into Roybal’s calendar app and repeat scheduling with their personal emails to get the notifications in their devices.
 
