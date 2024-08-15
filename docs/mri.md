@@ -120,3 +120,7 @@ FIRMM on the third pc, to check during the rs scan how the head movement and fmd
  
       scp -r ./Roybal_01 m.espaa@xfer.discovery.neu.edu:/work/cnelab/roybal/MRI/sourcedata/  
  
+mkdocs build
+mkdocs gh-deploy
+
+git add .; git commit -m "new changes"; git push origin main
