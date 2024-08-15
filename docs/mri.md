@@ -52,8 +52,10 @@
 ## MRI Protocal
 
 1. Participant enters the MRI room: 
-        a) Provide earplugs to the participant. Instruction: “squeeze the earplug tip and place it in your ear channel, you can also pull up the ear lobe to help you”  
-        b) Invite the participant to lie on the MRI examination table.  
+        
+a) Provide earplugs to the participant. Instruction: “squeeze the earplug tip and place it in your ear channel, you can also pull up the ear lobe to help you”  
+        
+b) Invite the participant to lie on the MRI examination table.  
         c) Arrange the participant position, move the wedge and the legs/head pillows if needed.  
         d) Provide the participant with the squeeze ball and ask them to try it once. Disconnect the alarm.  
         e) Provide headphones “You will hear us through them.” Red in their right side.  
@@ -88,11 +90,12 @@ FIRMM on the third pc, to check during the rs scan how the head movement and fmd
 
 1. Use gloves and disinfecting wipes to clean up the MRI examination table and rest of the material used during the scan (pillows, wedge, squeeze ball, earphones, etc). Sheets can be placed outside the scan room, in the specific container for laundry.   
 2. To export data:  
-      1. Click on subject (right click) export to dicom files, you will see a progress line under “activity.”  
-      2. Export study- Documents/Morris/Roybal 
-      3. Wait for exporting process to finish.  
-      4. Open terminal   
-      5. cd Documents/Morris/Roybal/  
+      1. Click on subject (right click) export to dicom files, you will see a progress line under “activity.”
+       <img width="484" alt="image" src="https://github.com/user-attachments/assets/0af4b0b4-6c99-4d21-832e-f6efb1670905">
+      3. Export study- Documents/Morris/Roybal 
+      4. Wait for exporting process to finish.  
+      5. Open terminal   
+      6. cd Documents/Morris/Roybal/  
  
       scp -r ./file2upload tinney.e@xfer.discovery.neu.edu:/work/cnelab/TECHS/MRI/raw/  
  
