@@ -23,8 +23,10 @@
       j) head coil 
 
       k) blanket
+<img width="486" alt="image" src="https://github.com/user-attachments/assets/31465ce3-837a-449c-ba56-3f799d04560a">
+https://github.com/cnelabneu/tbi-docs/blob/main/docs/img/figure1.png?raw=true![image](https://github.com/user-attachments/assets/1c296dc8-fc6d-4180-8c25-2443b4f8c959)
 
-![figure1](docs/img/figure1.png) 
+
 
 3. Procedures
    
