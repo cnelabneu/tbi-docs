@@ -24,7 +24,7 @@
 
       k) blanket
 
-
+![figure1](img/techs/MRI/figure11.png) 
 
 3. Procedures
    
