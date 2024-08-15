@@ -28,6 +28,7 @@
 
 
 3. Procedures
+
    
          a) Place the wedge and the head pillow the examination table.
      
