@@ -56,16 +56,35 @@
 a) Provide earplugs to the participant. Instruction: “squeeze the earplug tip and place it in your ear channel, you can also pull up the ear lobe to help you”  
         
 b) Invite the participant to lie on the MRI examination table.  
-        c) Arrange the participant position, move the wedge and the legs/head pillows if needed.  
-        d) Provide the participant with the squeeze ball and ask them to try it once. Disconnect the alarm.  
-        e) Provide headphones “You will hear us through them.” Red in their right side.  
-        f) Cover the participant with a blanket. 
-        g) Adjust participants position to the light line (for this procedure, ask them to close their eyes).  
-        h) Confirm the participant can see the screen from their position.  
-        i) Place the head coil smoothly. 
-        j) Place the lateral pillows on both sides (2 people needed). 
-        k) Get the participant into the scan. 
-        l) Ask one last time if they are ok before leaving the room and tell them you will keep in touch from the other room.
+
+
+c) Arrange the participant position, move the wedge and the legs/head pillows if needed.
+
+d) Provide the participant with the squeeze ball and ask them to try it once. Disconnect the alarm.  
+
+
+e) Provide headphones “You will hear us through them.” Red in their right side.  
+
+
+f) Cover the participant with a blanket. 
+
+
+g) Adjust participants position to the light line (for this procedure, ask them to close their eyes).  
+
+
+h) Confirm the participant can see the screen from their position.  
+
+
+i) Place the head coil smoothly. 
+
+
+j) Place the lateral pillows on both sides (2 people needed). 
+
+
+k) Get the participant into the scan. 
+
+
+l) Ask one last time if they are ok before leaving the room and tell them you will keep in touch from the other room.
   
 2. Instructions during scans:   
 Pull up fixation cross.   
