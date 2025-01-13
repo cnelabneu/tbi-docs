@@ -21,8 +21,7 @@
       
 10. [Complete MRI safety training online](https://neu.co1.qualtrics.com/jfe/form/SV_9NXRuWgD0GW4yiN)  
 11. Send Lexie your NUID for front door access 
-12. Join [OOD Cluster](oodcluster.md)
-13. Sign up for a [redcap account](https://www.tuftsctsi.org)
+12. Sign up for a [redcap account](https://www.tuftsctsi.org)
   To request a REDCap account, please submit a service request at https://www.tuftsctsi.org/   and select "Request Services” 
   Fill out your contact information 
   Project Title: TECHS 
