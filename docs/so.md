@@ -39,7 +39,7 @@ Participant and session leader will meet 15 minutes prior to session to teach ho
   - Participant mentioned something important (upcoming travels, change in job, moving, sickness, injury, allergies, change in medication, etc) 
   - Heartrate monitor was acting weird. *insert debugging done to fix it*
 
-
+ 
 ## Possible events and action plans:
 
 A.	The participant is off screen for more than 1 minute
