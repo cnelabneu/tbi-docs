@@ -48,8 +48,7 @@ Participant and session leader will meet 15 minutes prior to session to teach ho
 - If the participant does not answer, wait 1 minute and call again. You may also call an alternate number (home or cell phone).
 - If the participant does not answer the second phone call, call the participant’s local emergency contact.
 
-### B. The participant appears to be struggling with exercise
-*(e.g., taking more breaks than normal, visibly in pain)*
+### B. The participant appears to be struggling with exercise (e.g., taking more breaks than normal, visibly in pain)
 - Stop the session to check in and make sure they are okay.
 - If the participant would like to continue exercising, advise them to modify (e.g., reduce intensity or do exercises seated).
 - Pay special attention to monitoring this participant for the remainder of class.
