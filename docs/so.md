@@ -40,28 +40,38 @@ Participant and session leader will meet 15 minutes prior to session to teach ho
   - Heartrate monitor was acting weird. *insert debugging done to fix it*
 
  
-## Possible events and action plans:
+## Possible Events and Action Plans
 
-A.	The participant is off screen for more than 1 minute
-  - Confer with the staff member leading the intervention to see if they observed the participant walk off screen, sit down, etc. 
-  -	Call the participant after 1 minute of them being off screen
-  - If the participant does not answer, wait 1 minute and call again. You may also call an alternate number (home or cell phone)
-  - If the participant does not answer the second phone call, call the participant’s local emergency contact
+### A. The participant is off screen for more than 1 minute
+- Confer with the staff member leading the intervention to see if they observed the participant walk off screen, sit down, etc.
+- Call the participant after 1 minute of them being off screen.
+- If the participant does not answer, wait 1 minute and call again. You may also call an alternate number (home or cell phone).
+- If the participant does not answer the second phone call, call the participant’s local emergency contact.
 
-B.	The participant appears to be struggling with exercise (e.g. taking more breaks than normal, visibly in pain).
-  -	Stop the session to check-in and make sure they are okay. If the participant would like to continue exercising, advise the participant to modify (e.g., reduce intensity or do exercises seated) if needed.
-  - Pay special attention to monitoring this participant for the remainder of class, calling again if concerned for their safety. If the participant completes the class and you remain concerned about their health status, then call them after class and ask how they are feeling. Then inform Dr. Morris of the situation by contacting him.
+### B. The participant appears to be struggling with exercise
+*(e.g., taking more breaks than normal, visibly in pain)*
+- Stop the session to check in and make sure they are okay.
+- If the participant would like to continue exercising, advise them to modify (e.g., reduce intensity or do exercises seated).
+- Pay special attention to monitoring this participant for the remainder of class.
+- If concerned about their safety, call again.
+- If the participant completes the class but you remain concerned, call them after class to check in and notify Dr. Morris of the situation.
 
-C.	The participant falls or is in respiratory distress
-  - If the participant has clearly fallen and is not getting up, then immediately stop the class using your Zoom video and microphone and call out to the participant to see if they are responsive. If non-responsive, then call emergency services and provide them with the participant’s address.
-  - If the situation is non-emergent, immediately call the participant to check-in and make sure they are okay. If the participant is unsure if they need help and is having  difficulty breathing, chest pain, or irregular heart rate or other cardiac issue, then ask the participant if there is anyone in the home to help assess the participant and call 911. If no one is available, then call emergency services and provide them with the participant’s address.
-  - If the participant does not answer, immediately call the participant’s local emergency contact and ask the contact to check on the participant. If the emergency contact person is unavailable or unable to reach the participant, then contact emergency services.
- 
-D. Technical difficulties
-  - Call participant and assist them through this technology issue.
- 
-E. other person or animal enters the room
-  - Pause the session and ask if they will be able to be alone shortly. If not, reschedule session.
+### C. The participant falls or is in respiratory distress
+- If the participant has clearly fallen and is not getting up, immediately stop the class via Zoom and call out to check responsiveness.
+- If unresponsive, call emergency services and provide the participant’s address.
+- If the situation is non-emergent, call the participant immediately to check in.
+- If the participant is unsure whether they need help and is experiencing difficulty breathing, chest pain, irregular heart rate, or other cardiac symptoms:
+  - Ask if anyone is in the home who can help assess them and call 911.
+  - If no one is available, call emergency services and provide the participant’s address.
+- If the participant does not answer, call their local emergency contact.
+- If the emergency contact is unavailable, call emergency services.
+
+### D. Technical difficulties
+- Call the participant and assist them with the technology issue.
+
+### E. Another person or animal enters the room
+- Pause the session and ask if they will be able to be alone shortly.
+- If not, reschedule the session.
  
  
 
